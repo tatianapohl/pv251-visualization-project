@@ -1,0 +1,37 @@
+/* === Slider track === */
+.rc-slider-track {
+    background-color: #6c757d;  /* muted gray */
+}
+
+/* === Slider rail (inactive) === */
+.rc-slider-rail {
+    background-color: #dee2e6;
+}
+
+/* === Slider handle === */
+.rc-slider-handle {
+    border-color: #6c757d;
+}
+
+.rc-slider-handle:hover,
+.rc-slider-handle:focus {
+    border-color: #495057;
+}
+
+/* === Slider dots (inactive) === */
+.rc-slider-dot {
+    border-color: #ced4da;
+    background-color: #ced4da;
+}
+
+/* === Slider dots (active) === */
+.rc-slider-dot-active {
+    border-color: #6c757d;
+    background-color: #6c757d;
+}
+
+/* === Slider marks text === */
+.rc-slider-mark-text {
+    font-size: 0.7rem;
+    color: #6c757d;
+}

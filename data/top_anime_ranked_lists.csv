@@ -1,0 +1,2619 @@
+scope,genre,metric,rank,anime_id
+genre,Action,completed_count,1,16498
+genre,Action,completed_count,2,30276
+genre,Action,completed_count,3,11757
+genre,Action,completed_count,4,31964
+genre,Action,completed_count,5,22319
+genre,Action,completed_count,6,5114
+genre,Action,completed_count,7,25777
+genre,Action,completed_count,8,20
+genre,Action,completed_count,9,38000
+genre,Action,completed_count,10,33486
+genre,Action,completed_count,11,35760
+genre,Action,completed_count,12,38524
+genre,Action,completed_count,13,36456
+genre,Action,completed_count,14,11061
+genre,Action,completed_count,15,23755
+genre,Action,completed_count,16,21881
+genre,Action,completed_count,17,1575
+genre,Action,completed_count,18,20507
+genre,Action,completed_count,19,6547
+genre,Action,completed_count,20,22199
+genre,Adventure,completed_count,1,11757
+genre,Adventure,completed_count,2,5114
+genre,Adventure,completed_count,3,20
+genre,Adventure,completed_count,4,19815
+genre,Adventure,completed_count,5,11061
+genre,Adventure,completed_count,6,23755
+genre,Adventure,completed_count,7,21881
+genre,Adventure,completed_count,8,20507
+genre,Adventure,completed_count,9,199
+genre,Adventure,completed_count,10,22199
+genre,Adventure,completed_count,11,30831
+genre,Adventure,completed_count,12,1735
+genre,Adventure,completed_count,13,32937
+genre,Adventure,completed_count,14,28121
+genre,Adventure,completed_count,15,30503
+genre,Adventure,completed_count,16,14719
+genre,Adventure,completed_count,17,121
+genre,Adventure,completed_count,18,29803
+genre,Adventure,completed_count,19,431
+genre,Adventure,completed_count,20,38691
+genre,Avant Garde,completed_count,1,30
+genre,Avant Garde,completed_count,2,35120
+genre,Avant Garde,completed_count,3,32
+genre,Avant Garde,completed_count,4,227
+genre,Avant Garde,completed_count,5,437
+genre,Avant Garde,completed_count,6,1943
+genre,Avant Garde,completed_count,7,339
+genre,Avant Garde,completed_count,8,323
+genre,Avant Garde,completed_count,9,10721
+genre,Avant Garde,completed_count,10,885
+genre,Avant Garde,completed_count,11,37451
+genre,Avant Garde,completed_count,12,19383
+genre,Avant Garde,completed_count,13,601
+genre,Avant Garde,completed_count,14,33010
+genre,Avant Garde,completed_count,15,48488
+genre,Avant Garde,completed_count,16,369
+genre,Avant Garde,completed_count,17,22537
+genre,Avant Garde,completed_count,18,875
+genre,Avant Garde,completed_count,19,441
+genre,Avant Garde,completed_count,20,35842
+genre,Award Winning,completed_count,1,199
+genre,Award Winning,completed_count,2,5365
+genre,Award Winning,completed_count,3,50206
+genre,Award Winning,completed_count,4,49977
+genre,Award Winning,completed_count,5,49976
+genre,Award Winning,completed_count,6,49956
+genre,Award Winning,completed_count,7,51071
+genre,Boys Love,completed_count,1,39533
+genre,Boys Love,completed_count,2,3092
+genre,Boys Love,completed_count,3,21105
+genre,Boys Love,completed_count,4,30346
+genre,Boys Love,completed_count,5,9926
+genre,Boys Love,completed_count,6,4814
+genre,Boys Love,completed_count,7,1639
+genre,Boys Love,completed_count,8,11123
+genre,Boys Love,completed_count,9,40421
+genre,Boys Love,completed_count,10,31680
+genre,Boys Love,completed_count,11,33654
+genre,Boys Love,completed_count,12,149
+genre,Boys Love,completed_count,13,25649
+genre,Boys Love,completed_count,14,37597
+genre,Boys Love,completed_count,15,243
+genre,Boys Love,completed_count,16,40615
+genre,Boys Love,completed_count,17,37585
+genre,Boys Love,completed_count,18,5391
+genre,Boys Love,completed_count,19,33417
+genre,Boys Love,completed_count,20,4866
+genre,Cars,completed_count,1,6675
+genre,Cars,completed_count,2,185
+genre,Cars,completed_count,3,186
+genre,Cars,completed_count,4,187
+genre,Cars,completed_count,5,18
+genre,Cars,completed_count,6,15059
+genre,Cars,completed_count,7,22507
+genre,Cars,completed_count,8,40532
+genre,Cars,completed_count,9,822
+genre,Cars,completed_count,10,5228
+genre,Cars,completed_count,11,821
+genre,Cars,completed_count,12,19613
+genre,Cars,completed_count,13,3931
+genre,Cars,completed_count,14,28881
+genre,Cars,completed_count,15,2608
+genre,Cars,completed_count,16,30952
+genre,Cars,completed_count,17,388
+genre,Cars,completed_count,18,6162
+genre,Cars,completed_count,19,917
+genre,Cars,completed_count,20,1445
+genre,Comedy,completed_count,1,30276
+genre,Comedy,completed_count,2,31964
+genre,Comedy,completed_count,3,5114
+genre,Comedy,completed_count,4,20
+genre,Comedy,completed_count,5,33486
+genre,Comedy,completed_count,6,19815
+genre,Comedy,completed_count,7,36456
+genre,Comedy,completed_count,8,4224
+genre,Comedy,completed_count,9,20507
+genre,Comedy,completed_count,10,6547
+genre,Comedy,completed_count,11,30831
+genre,Comedy,completed_count,12,1735
+genre,Comedy,completed_count,13,20583
+genre,Comedy,completed_count,14,32182
+genre,Comedy,completed_count,15,24833
+genre,Comedy,completed_count,16,32937
+genre,Comedy,completed_count,17,38408
+genre,Comedy,completed_count,18,28121
+genre,Comedy,completed_count,19,37450
+genre,Comedy,completed_count,20,15809
+genre,Demons,completed_count,1,38000
+genre,Demons,completed_count,2,9919
+genre,Demons,completed_count,3,40748
+genre,Demons,completed_count,4,15809
+genre,Demons,completed_count,5,11617
+genre,Demons,completed_count,6,40456
+genre,Demons,completed_count,7,37430
+genre,Demons,completed_count,8,15451
+genre,Demons,completed_count,9,35120
+genre,Demons,completed_count,10,4898
+genre,Demons,completed_count,11,24703
+genre,Demons,completed_count,12,37520
+genre,Demons,completed_count,13,33506
+genre,Demons,completed_count,14,39551
+genre,Demons,completed_count,15,11633
+genre,Demons,completed_count,16,23233
+genre,Demons,completed_count,17,40496
+genre,Demons,completed_count,18,47778
+genre,Demons,completed_count,19,6707
+genre,Demons,completed_count,20,14713
+genre,Drama,completed_count,1,16498
+genre,Drama,completed_count,2,22319
+genre,Drama,completed_count,3,5114
+genre,Drama,completed_count,4,32281
+genre,Drama,completed_count,5,25777
+genre,Drama,completed_count,6,35760
+genre,Drama,completed_count,7,28851
+genre,Drama,completed_count,8,38524
+genre,Drama,completed_count,9,1575
+genre,Drama,completed_count,10,31240
+genre,Drama,completed_count,11,6547
+genre,Drama,completed_count,12,199
+genre,Drama,completed_count,13,22199
+genre,Drama,completed_count,14,9253
+genre,Drama,completed_count,15,23273
+genre,Drama,completed_count,16,27899
+genre,Drama,completed_count,17,2904
+genre,Drama,completed_count,18,20583
+genre,Drama,completed_count,19,22535
+genre,Drama,completed_count,20,9989
+genre,Ecchi,completed_count,1,19815
+genre,Ecchi,completed_count,2,28171
+genre,Ecchi,completed_count,3,8074
+genre,Ecchi,completed_count,4,11617
+genre,Ecchi,completed_count,5,18679
+genre,Ecchi,completed_count,6,32282
+genre,Ecchi,completed_count,7,15451
+genre,Ecchi,completed_count,8,35788
+genre,Ecchi,completed_count,9,30240
+genre,Ecchi,completed_count,10,30296
+genre,Ecchi,completed_count,11,39535
+genre,Ecchi,completed_count,12,24703
+genre,Ecchi,completed_count,13,1195
+genre,Ecchi,completed_count,14,25157
+genre,Ecchi,completed_count,15,10719
+genre,Ecchi,completed_count,16,36949
+genre,Ecchi,completed_count,17,11597
+genre,Ecchi,completed_count,18,30307
+genre,Ecchi,completed_count,19,2993
+genre,Ecchi,completed_count,20,29786
+genre,Erotica,completed_count,1,40746
+genre,Erotica,completed_count,2,37585
+genre,Erotica,completed_count,3,8634
+genre,Erotica,completed_count,4,3375
+genre,Erotica,completed_count,5,746
+genre,Erotica,completed_count,6,5774
+genre,Erotica,completed_count,7,3210
+genre,Erotica,completed_count,8,2148
+genre,Erotica,completed_count,9,7748
+genre,Erotica,completed_count,10,719
+genre,Erotica,completed_count,11,5902
+genre,Erotica,completed_count,12,35629
+genre,Erotica,completed_count,13,37281
+genre,Erotica,completed_count,14,5719
+genre,Erotica,completed_count,15,39337
+genre,Erotica,completed_count,16,5784
+genre,Erotica,completed_count,17,747
+genre,Erotica,completed_count,18,2432
+genre,Erotica,completed_count,19,21521
+genre,Erotica,completed_count,20,34823
+genre,Fantasy,completed_count,1,16498
+genre,Fantasy,completed_count,2,11757
+genre,Fantasy,completed_count,3,5114
+genre,Fantasy,completed_count,4,25777
+genre,Fantasy,completed_count,5,19815
+genre,Fantasy,completed_count,6,35760
+genre,Fantasy,completed_count,7,38524
+genre,Fantasy,completed_count,8,11061
+genre,Fantasy,completed_count,9,23755
+genre,Fantasy,completed_count,10,21881
+genre,Fantasy,completed_count,11,31240
+genre,Fantasy,completed_count,12,22199
+genre,Fantasy,completed_count,13,30831
+genre,Fantasy,completed_count,14,9919
+genre,Fantasy,completed_count,15,32937
+genre,Fantasy,completed_count,16,28121
+genre,Fantasy,completed_count,17,15809
+genre,Fantasy,completed_count,18,40028
+genre,Fantasy,completed_count,19,121
+genre,Fantasy,completed_count,20,29803
+genre,Game,completed_count,1,11757
+genre,Game,completed_count,2,19815
+genre,Game,completed_count,3,21881
+genre,Game,completed_count,4,28223
+genre,Game,completed_count,5,29803
+genre,Game,completed_count,6,34933
+genre,Game,completed_count,7,35073
+genre,Game,completed_count,8,17265
+genre,Game,completed_count,9,36474
+genre,Game,completed_count,10,37675
+genre,Game,completed_count,11,33674
+genre,Game,completed_count,12,31765
+genre,Game,completed_count,13,37086
+genre,Game,completed_count,14,39597
+genre,Game,completed_count,15,11759
+genre,Game,completed_count,16,34280
+genre,Game,completed_count,17,23321
+genre,Game,completed_count,18,36475
+genre,Game,completed_count,19,40540
+genre,Game,completed_count,20,31404
+genre,Girls Love,completed_count,1,34382
+genre,Girls Love,completed_count,2,6205
+genre,Girls Love,completed_count,3,10495
+genre,Girls Love,completed_count,4,19429
+genre,Girls Love,completed_count,5,20047
+genre,Girls Love,completed_count,6,37786
+genre,Girls Love,completed_count,7,37517
+genre,Girls Love,completed_count,8,12403
+genre,Girls Love,completed_count,9,5030
+genre,Girls Love,completed_count,10,37993
+genre,Girls Love,completed_count,11,3342
+genre,Girls Love,completed_count,12,30279
+genre,Girls Love,completed_count,13,34383
+genre,Girls Love,completed_count,14,855
+genre,Girls Love,completed_count,15,98
+genre,Girls Love,completed_count,16,39790
+genre,Girls Love,completed_count,17,30385
+genre,Girls Love,completed_count,18,37722
+genre,Girls Love,completed_count,19,28883
+genre,Girls Love,completed_count,20,35241
+genre,Gourmet,completed_count,1,28171
+genre,Gourmet,completed_count,2,32282
+genre,Gourmet,completed_count,3,35788
+genre,Gourmet,completed_count,4,36949
+genre,Gourmet,completed_count,5,39940
+genre,Gourmet,completed_count,6,40902
+genre,Gourmet,completed_count,7,31636
+genre,Gourmet,completed_count,8,10396
+genre,Gourmet,completed_count,9,32828
+genre,Gourmet,completed_count,10,11553
+genre,Gourmet,completed_count,11,35484
+genre,Gourmet,completed_count,12,34480
+genre,Gourmet,completed_count,13,34012
+genre,Gourmet,completed_count,14,36049
+genre,Gourmet,completed_count,15,6127
+genre,Gourmet,completed_count,16,36754
+genre,Gourmet,completed_count,17,37033
+genre,Gourmet,completed_count,18,19511
+genre,Gourmet,completed_count,19,6586
+genre,Gourmet,completed_count,20,28
+genre,Harem,completed_count,1,11617
+genre,Harem,completed_count,2,853
+genre,Harem,completed_count,3,18897
+genre,Harem,completed_count,4,15451
+genre,Harem,completed_count,5,15583
+genre,Harem,completed_count,6,24703
+genre,Harem,completed_count,7,38101
+genre,Harem,completed_count,8,1195
+genre,Harem,completed_count,9,25157
+genre,Harem,completed_count,10,33487
+genre,Harem,completed_count,11,28677
+genre,Harem,completed_count,12,27787
+genre,Harem,completed_count,13,30307
+genre,Harem,completed_count,14,2993
+genre,Harem,completed_count,15,37210
+genre,Harem,completed_count,16,19163
+genre,Harem,completed_count,17,30544
+genre,Harem,completed_count,18,9041
+genre,Harem,completed_count,19,2476
+genre,Harem,completed_count,20,23233
+genre,Hentai,completed_count,1,1639
+genre,Hentai,completed_count,2,5391
+genre,Hentai,completed_count,3,4866
+genre,Hentai,completed_count,4,22429
+genre,Hentai,completed_count,5,10851
+genre,Hentai,completed_count,6,368
+genre,Hentai,completed_count,7,6893
+genre,Hentai,completed_count,8,320
+genre,Hentai,completed_count,9,741
+genre,Hentai,completed_count,10,29575
+genre,Hentai,completed_count,11,7748
+genre,Hentai,completed_count,12,7411
+genre,Hentai,completed_count,13,10779
+genre,Hentai,completed_count,14,10380
+genre,Hentai,completed_count,15,8918
+genre,Hentai,completed_count,16,11879
+genre,Hentai,completed_count,17,24641
+genre,Hentai,completed_count,18,31886
+genre,Hentai,completed_count,19,23479
+genre,Hentai,completed_count,20,32587
+genre,Historical,completed_count,1,38000
+genre,Historical,completed_count,2,40456
+genre,Historical,completed_count,3,4898
+genre,Historical,completed_count,4,205
+genre,Historical,completed_count,5,37521
+genre,Historical,completed_count,6,37520
+genre,Historical,completed_count,7,2966
+genre,Historical,completed_count,8,578
+genre,Historical,completed_count,9,2251
+genre,Historical,completed_count,10,47778
+genre,Historical,completed_count,11,6707
+genre,Historical,completed_count,12,249
+genre,Historical,completed_count,13,32998
+genre,Historical,completed_count,14,5341
+genre,Historical,completed_count,15,31339
+genre,Historical,completed_count,16,918
+genre,Historical,completed_count,17,430
+genre,Historical,completed_count,18,457
+genre,Historical,completed_count,19,22145
+genre,Historical,completed_count,20,49926
+genre,Horror,completed_count,1,22319
+genre,Horror,completed_count,2,27899
+genre,Horror,completed_count,3,37779
+genre,Horror,completed_count,4,22535
+genre,Horror,completed_count,5,11111
+genre,Horror,completed_count,6,8074
+genre,Horror,completed_count,7,226
+genre,Horror,completed_count,8,6880
+genre,Horror,completed_count,9,36511
+genre,Horror,completed_count,10,35120
+genre,Horror,completed_count,11,16592
+genre,Horror,completed_count,12,47
+genre,Horror,completed_count,13,37799
+genre,Horror,completed_count,14,777
+genre,Horror,completed_count,15,28623
+genre,Horror,completed_count,16,270
+genre,Horror,completed_count,17,934
+genre,Horror,completed_count,18,11499
+genre,Horror,completed_count,19,437
+genre,Horror,completed_count,20,33
+genre,Josei,completed_count,1,10162
+genre,Josei,completed_count,2,10800
+genre,Josei,completed_count,3,12531
+genre,Josei,completed_count,4,1698
+genre,Josei,completed_count,5,14397
+genre,Josei,completed_count,6,31229
+genre,Josei,completed_count,7,8129
+genre,Josei,completed_count,8,5525
+genre,Josei,completed_count,9,16035
+genre,Josei,completed_count,10,322
+genre,Josei,completed_count,11,28735
+genre,Josei,completed_count,12,4477
+genre,Josei,completed_count,13,16
+genre,Josei,completed_count,14,149
+genre,Josei,completed_count,15,5690
+genre,Josei,completed_count,16,6895
+genre,Josei,completed_count,17,36864
+genre,Josei,completed_count,18,24211
+genre,Josei,completed_count,19,33095
+genre,Josei,completed_count,20,1142
+genre,Kids,completed_count,1,527
+genre,Kids,completed_count,2,552
+genre,Kids,completed_count,3,528
+genre,Kids,completed_count,4,20159
+genre,Kids,completed_count,5,1313
+genre,Kids,completed_count,6,1117
+genre,Kids,completed_count,7,1118
+genre,Kids,completed_count,8,1564
+genre,Kids,completed_count,9,1119
+genre,Kids,completed_count,10,19291
+genre,Kids,completed_count,11,1565
+genre,Kids,completed_count,12,1120
+genre,Kids,completed_count,13,1526
+genre,Kids,completed_count,14,2961
+genre,Kids,completed_count,15,1122
+genre,Kids,completed_count,16,2847
+genre,Kids,completed_count,17,31592
+genre,Kids,completed_count,18,288
+genre,Kids,completed_count,19,1121
+genre,Kids,completed_count,20,4026
+genre,Martial Arts,completed_count,1,20
+genre,Martial Arts,completed_count,2,1735
+genre,Martial Arts,completed_count,3,813
+genre,Martial Arts,completed_count,4,223
+genre,Martial Arts,completed_count,5,30694
+genre,Martial Arts,completed_count,6,41353
+genre,Martial Arts,completed_count,7,16870
+genre,Martial Arts,completed_count,8,28755
+genre,Martial Arts,completed_count,9,392
+genre,Martial Arts,completed_count,10,36946
+genre,Martial Arts,completed_count,11,13667
+genre,Martial Arts,completed_count,12,6033
+genre,Martial Arts,completed_count,13,6594
+genre,Martial Arts,completed_count,14,9367
+genre,Martial Arts,completed_count,15,4437
+genre,Martial Arts,completed_count,16,10396
+genre,Martial Arts,completed_count,17,8246
+genre,Martial Arts,completed_count,18,34443
+genre,Martial Arts,completed_count,19,10589
+genre,Martial Arts,completed_count,20,1559
+genre,Mecha,completed_count,1,1575
+genre,Mecha,completed_count,2,2904
+genre,Mecha,completed_count,3,30
+genre,Mecha,completed_count,4,35849
+genre,Mecha,completed_count,5,2001
+genre,Mecha,completed_count,6,10793
+genre,Mecha,completed_count,7,15583
+genre,Mecha,completed_count,8,32
+genre,Mecha,completed_count,9,227
+genre,Mecha,completed_count,10,19163
+genre,Mecha,completed_count,11,9041
+genre,Mecha,completed_count,12,2759
+genre,Mecha,completed_count,13,43
+genre,Mecha,completed_count,14,3784
+genre,Mecha,completed_count,15,22729
+genre,Mecha,completed_count,16,18247
+genre,Mecha,completed_count,17,71
+genre,Mecha,completed_count,18,3785
+genre,Mecha,completed_count,19,41457
+genre,Mecha,completed_count,20,30749
+genre,Military,completed_count,1,16498
+genre,Military,completed_count,2,5114
+genre,Military,completed_count,3,25777
+genre,Military,completed_count,4,35760
+genre,Military,completed_count,5,38524
+genre,Military,completed_count,6,1575
+genre,Military,completed_count,7,2904
+genre,Military,completed_count,8,40028
+genre,Military,completed_count,9,121
+genre,Military,completed_count,10,26243
+genre,Military,completed_count,11,28927
+genre,Military,completed_count,12,47
+genre,Military,completed_count,13,28907
+genre,Military,completed_count,14,32615
+genre,Military,completed_count,15,777
+genre,Military,completed_count,16,31637
+genre,Military,completed_count,17,36475
+genre,Military,completed_count,18,22729
+genre,Military,completed_count,19,33
+genre,Military,completed_count,20,27631
+genre,Music,completed_count,1,23273
+genre,Music,completed_count,2,5680
+genre,Music,completed_count,3,7791
+genre,Music,completed_count,4,39533
+genre,Music,completed_count,5,15051
+genre,Music,completed_count,6,877
+genre,Music,completed_count,7,37976
+genre,Music,completed_count,8,9617
+genre,Music,completed_count,9,27989
+genre,Music,completed_count,10,46095
+genre,Music,completed_count,11,12531
+genre,Music,completed_count,12,19111
+genre,Music,completed_count,13,33743
+genre,Music,completed_count,14,57
+genre,Music,completed_count,15,1698
+genre,Music,completed_count,16,48556
+genre,Music,completed_count,17,37435
+genre,Music,completed_count,18,10321
+genre,Music,completed_count,19,31988
+genre,Music,completed_count,20,6862
+genre,Mystery,completed_count,1,16498
+genre,Mystery,completed_count,2,1535
+genre,Mystery,completed_count,3,22319
+genre,Mystery,completed_count,4,25777
+genre,Mystery,completed_count,5,35760
+genre,Mystery,completed_count,6,38524
+genre,Mystery,completed_count,7,31043
+genre,Mystery,completed_count,8,27899
+genre,Mystery,completed_count,9,10620
+genre,Mystery,completed_count,10,37779
+genre,Mystery,completed_count,11,11111
+genre,Mystery,completed_count,12,28223
+genre,Mystery,completed_count,13,40028
+genre,Mystery,completed_count,14,34933
+genre,Mystery,completed_count,15,5081
+genre,Mystery,completed_count,16,6746
+genre,Mystery,completed_count,17,36511
+genre,Mystery,completed_count,18,34599
+genre,Mystery,completed_count,19,31478
+genre,Mystery,completed_count,20,4898
+genre,Parody,completed_count,1,30276
+genre,Parody,completed_count,2,30831
+genre,Parody,completed_count,3,32937
+genre,Parody,completed_count,4,34134
+genre,Parody,completed_count,5,849
+genre,Parody,completed_count,6,38040
+genre,Parody,completed_count,7,227
+genre,Parody,completed_count,8,4382
+genre,Parody,completed_count,9,1887
+genre,Parody,completed_count,10,918
+genre,Parody,completed_count,11,31704
+genre,Parody,completed_count,12,9969
+genre,Parody,completed_count,13,38472
+genre,Parody,completed_count,14,31772
+genre,Parody,completed_count,15,28977
+genre,Parody,completed_count,16,19369
+genre,Parody,completed_count,17,8795
+genre,Parody,completed_count,18,11785
+genre,Parody,completed_count,19,15417
+genre,Parody,completed_count,20,2104
+genre,Police,completed_count,1,1535
+genre,Police,completed_count,2,13601
+genre,Police,completed_count,3,23281
+genre,Police,completed_count,4,43
+genre,Police,completed_count,5,32827
+genre,Police,completed_count,6,467
+genre,Police,completed_count,7,41120
+genre,Police,completed_count,8,21339
+genre,Police,completed_count,9,323
+genre,Police,completed_count,10,40046
+genre,Police,completed_count,11,801
+genre,Police,completed_count,12,2994
+genre,Police,completed_count,13,23309
+genre,Police,completed_count,14,468
+genre,Police,completed_count,15,39491
+genre,Police,completed_count,16,570
+genre,Police,completed_count,17,33337
+genre,Police,completed_count,18,8915
+genre,Police,completed_count,19,16774
+genre,Police,completed_count,20,1566
+genre,Psychological,completed_count,1,1535
+genre,Psychological,completed_count,2,22319
+genre,Psychological,completed_count,3,31240
+genre,Psychological,completed_count,4,31043
+genre,Psychological,completed_count,5,9253
+genre,Psychological,completed_count,6,27899
+genre,Psychological,completed_count,7,10620
+genre,Psychological,completed_count,8,37779
+genre,Psychological,completed_count,9,22535
+genre,Psychological,completed_count,10,30
+genre,Psychological,completed_count,11,28223
+genre,Psychological,completed_count,12,37999
+genre,Psychological,completed_count,13,226
+genre,Psychological,completed_count,14,34933
+genre,Psychological,completed_count,15,13601
+genre,Psychological,completed_count,16,9756
+genre,Psychological,completed_count,17,40591
+genre,Psychological,completed_count,18,36511
+genre,Psychological,completed_count,19,35507
+genre,Psychological,completed_count,20,23283
+genre,Romance,completed_count,1,11757
+genre,Romance,completed_count,2,32281
+genre,Romance,completed_count,3,4224
+genre,Romance,completed_count,4,21881
+genre,Romance,completed_count,5,23273
+genre,Romance,completed_count,6,28121
+genre,Romance,completed_count,7,37450
+genre,Romance,completed_count,8,15809
+genre,Romance,completed_count,9,37999
+genre,Romance,completed_count,10,11617
+genre,Romance,completed_count,11,226
+genre,Romance,completed_count,12,431
+genre,Romance,completed_count,13,35849
+genre,Romance,completed_count,14,14813
+genre,Romance,completed_count,15,14741
+genre,Romance,completed_count,16,2167
+genre,Romance,completed_count,17,7054
+genre,Romance,completed_count,18,13759
+genre,Romance,completed_count,19,5081
+genre,Romance,completed_count,20,853
+genre,Samurai,completed_count,1,205
+genre,Samurai,completed_count,2,37520
+genre,Samurai,completed_count,3,31339
+genre,Samurai,completed_count,4,918
+genre,Samurai,completed_count,5,45
+genre,Samurai,completed_count,6,9969
+genre,Samurai,completed_count,7,1292
+genre,Samurai,completed_count,8,28977
+genre,Samurai,completed_count,9,2418
+genre,Samurai,completed_count,10,15417
+genre,Samurai,completed_count,11,44
+genre,Samurai,completed_count,12,34096
+genre,Samurai,completed_count,13,15335
+genre,Samurai,completed_count,14,7472
+genre,Samurai,completed_count,15,35843
+genre,Samurai,completed_count,16,36838
+genre,Samurai,completed_count,17,8277
+genre,Samurai,completed_count,18,37491
+genre,Samurai,completed_count,19,11241
+genre,Samurai,completed_count,20,67
+genre,School,completed_count,1,31964
+genre,School,completed_count,2,32281
+genre,School,completed_count,3,33486
+genre,School,completed_count,4,28851
+genre,School,completed_count,5,36456
+genre,School,completed_count,6,4224
+genre,School,completed_count,7,1575
+genre,School,completed_count,8,6547
+genre,School,completed_count,9,23273
+genre,School,completed_count,10,20583
+genre,School,completed_count,11,24833
+genre,School,completed_count,12,40748
+genre,School,completed_count,13,28171
+genre,School,completed_count,14,11111
+genre,School,completed_count,15,38408
+genre,School,completed_count,16,37450
+genre,School,completed_count,17,28999
+genre,School,completed_count,18,28891
+genre,School,completed_count,19,37999
+genre,School,completed_count,20,11617
+genre,Sci-Fi,completed_count,1,30276
+genre,Sci-Fi,completed_count,2,1575
+genre,Sci-Fi,completed_count,3,9253
+genre,Sci-Fi,completed_count,4,37779
+genre,Sci-Fi,completed_count,5,2904
+genre,Sci-Fi,completed_count,6,22535
+genre,Sci-Fi,completed_count,7,30
+genre,Sci-Fi,completed_count,8,34134
+genre,Sci-Fi,completed_count,9,38691
+genre,Sci-Fi,completed_count,10,35849
+genre,Sci-Fi,completed_count,11,2001
+genre,Sci-Fi,completed_count,12,1
+genre,Sci-Fi,completed_count,13,13601
+genre,Sci-Fi,completed_count,14,6880
+genre,Sci-Fi,completed_count,15,10793
+genre,Sci-Fi,completed_count,16,34599
+genre,Sci-Fi,completed_count,17,15583
+genre,Sci-Fi,completed_count,18,32
+genre,Sci-Fi,completed_count,19,20785
+genre,Sci-Fi,completed_count,20,20787
+genre,Seinen,completed_count,1,22319
+genre,Seinen,completed_count,2,31043
+genre,Seinen,completed_count,3,27899
+genre,Seinen,completed_count,4,22535
+genre,Seinen,completed_count,5,37999
+genre,Seinen,completed_count,6,226
+genre,Seinen,completed_count,7,40591
+genre,Seinen,completed_count,8,36511
+genre,Seinen,completed_count,9,31478
+genre,Seinen,completed_count,10,30240
+genre,Seinen,completed_count,11,37521
+genre,Seinen,completed_count,12,20787
+genre,Seinen,completed_count,13,14345
+genre,Seinen,completed_count,14,47
+genre,Seinen,completed_count,15,37799
+genre,Seinen,completed_count,16,889
+genre,Seinen,completed_count,17,32867
+genre,Seinen,completed_count,18,30307
+genre,Seinen,completed_count,19,777
+genre,Seinen,completed_count,20,11633
+genre,Shoujo,completed_count,1,7054
+genre,Shoujo,completed_count,2,853
+genre,Shoujo,completed_count,3,14227
+genre,Shoujo,completed_count,4,21995
+genre,Shoujo,completed_count,5,10408
+genre,Shoujo,completed_count,6,6045
+genre,Shoujo,completed_count,7,25013
+genre,Shoujo,completed_count,8,3457
+genre,Shoujo,completed_count,9,32729
+genre,Shoujo,completed_count,10,14289
+genre,Shoujo,completed_count,11,14713
+genre,Shoujo,completed_count,12,30123
+genre,Shoujo,completed_count,13,25781
+genre,Shoujo,completed_count,14,38680
+genre,Shoujo,completed_count,15,120
+genre,Shoujo,completed_count,16,36649
+genre,Shoujo,completed_count,17,2034
+genre,Shoujo,completed_count,18,28297
+genre,Shoujo,completed_count,19,9656
+genre,Shoujo,completed_count,20,23673
+genre,Shounen,completed_count,1,16498
+genre,Shounen,completed_count,2,1535
+genre,Shounen,completed_count,3,31964
+genre,Shounen,completed_count,4,5114
+genre,Shounen,completed_count,5,25777
+genre,Shounen,completed_count,6,20
+genre,Shounen,completed_count,7,38000
+genre,Shounen,completed_count,8,33486
+genre,Shounen,completed_count,9,35760
+genre,Shounen,completed_count,10,28851
+genre,Shounen,completed_count,11,38524
+genre,Shounen,completed_count,12,36456
+genre,Shounen,completed_count,13,11061
+genre,Shounen,completed_count,14,23755
+genre,Shounen,completed_count,15,20507
+genre,Shounen,completed_count,16,22199
+genre,Shounen,completed_count,17,23273
+genre,Shounen,completed_count,18,10620
+genre,Shounen,completed_count,19,9919
+genre,Shounen,completed_count,20,37779
+genre,Slice of Life,completed_count,1,4224
+genre,Slice of Life,completed_count,2,32182
+genre,Slice of Life,completed_count,3,9989
+genre,Slice of Life,completed_count,4,14813
+genre,Slice of Life,completed_count,5,37510
+genre,Slice of Life,completed_count,6,33352
+genre,Slice of Life,completed_count,7,14741
+genre,Slice of Life,completed_count,8,2167
+genre,Slice of Life,completed_count,9,33206
+genre,Slice of Life,completed_count,10,13759
+genre,Slice of Life,completed_count,11,23847
+genre,Slice of Life,completed_count,12,4181
+genre,Slice of Life,completed_count,13,14227
+genre,Slice of Life,completed_count,14,12189
+genre,Slice of Life,completed_count,15,18153
+genre,Slice of Life,completed_count,16,1689
+genre,Slice of Life,completed_count,17,30015
+genre,Slice of Life,completed_count,18,42897
+genre,Slice of Life,completed_count,19,5680
+genre,Slice of Life,completed_count,20,16782
+genre,Space,completed_count,1,1
+genre,Space,completed_count,2,5
+genre,Space,completed_count,3,27655
+genre,Space,completed_count,4,20057
+genre,Space,completed_count,5,39198
+genre,Space,completed_count,6,2581
+genre,Space,completed_count,7,22687
+genre,Space,completed_count,8,19775
+genre,Space,completed_count,9,4565
+genre,Space,completed_count,10,31251
+genre,Space,completed_count,11,3927
+genre,Space,completed_count,12,93
+genre,Space,completed_count,13,90
+genre,Space,completed_count,14,23327
+genre,Space,completed_count,15,16668
+genre,Space,completed_count,16,256
+genre,Space,completed_count,17,32681
+genre,Space,completed_count,18,33051
+genre,Space,completed_count,19,329
+genre,Space,completed_count,20,3572
+genre,Sports,completed_count,1,20583
+genre,Sports,completed_count,2,28891
+genre,Sports,completed_count,3,32935
+genre,Sports,completed_count,4,11771
+genre,Sports,completed_count,5,16894
+genre,Sports,completed_count,6,38883
+genre,Sports,completed_count,7,32995
+genre,Sports,completed_count,8,24415
+genre,Sports,completed_count,9,18507
+genre,Sports,completed_count,10,40776
+genre,Sports,completed_count,11,22265
+genre,Sports,completed_count,12,36563
+genre,Sports,completed_count,13,263
+genre,Sports,completed_count,14,42923
+genre,Sports,completed_count,15,857
+genre,Sports,completed_count,16,6675
+genre,Sports,completed_count,17,32686
+genre,Sports,completed_count,18,40262
+genre,Sports,completed_count,19,10800
+genre,Sports,completed_count,20,31658
+genre,Super Power,completed_count,1,16498
+genre,Super Power,completed_count,2,30276
+genre,Super Power,completed_count,3,31964
+genre,Super Power,completed_count,4,25777
+genre,Super Power,completed_count,5,20
+genre,Super Power,completed_count,6,33486
+genre,Super Power,completed_count,7,35760
+genre,Super Power,completed_count,8,38524
+genre,Super Power,completed_count,9,36456
+genre,Super Power,completed_count,10,11061
+genre,Super Power,completed_count,11,1575
+genre,Super Power,completed_count,12,2904
+genre,Super Power,completed_count,13,1735
+genre,Super Power,completed_count,14,38408
+genre,Super Power,completed_count,15,28999
+genre,Super Power,completed_count,16,40028
+genre,Super Power,completed_count,17,34134
+genre,Super Power,completed_count,18,18679
+genre,Super Power,completed_count,19,813
+genre,Super Power,completed_count,20,269
+genre,Supernatural,completed_count,1,1535
+genre,Supernatural,completed_count,2,30276
+genre,Supernatural,completed_count,3,22319
+genre,Supernatural,completed_count,4,32281
+genre,Supernatural,completed_count,5,38000
+genre,Supernatural,completed_count,6,19815
+genre,Supernatural,completed_count,7,23755
+genre,Supernatural,completed_count,8,20507
+genre,Supernatural,completed_count,9,6547
+genre,Supernatural,completed_count,10,199
+genre,Supernatural,completed_count,11,31043
+genre,Supernatural,completed_count,12,27899
+genre,Supernatural,completed_count,13,30831
+genre,Supernatural,completed_count,14,10620
+genre,Supernatural,completed_count,15,9919
+genre,Supernatural,completed_count,16,32182
+genre,Supernatural,completed_count,17,40748
+genre,Supernatural,completed_count,18,11111
+genre,Supernatural,completed_count,19,32937
+genre,Supernatural,completed_count,20,9989
+genre,Suspense,completed_count,1,1535
+genre,Suspense,completed_count,2,31240
+genre,Suspense,completed_count,3,9253
+genre,Suspense,completed_count,4,10620
+genre,Suspense,completed_count,5,37779
+genre,Suspense,completed_count,6,11111
+genre,Suspense,completed_count,7,28223
+genre,Suspense,completed_count,8,13601
+genre,Suspense,completed_count,9,9756
+genre,Suspense,completed_count,10,23283
+genre,Suspense,completed_count,11,39587
+genre,Suspense,completed_count,12,42203
+genre,Suspense,completed_count,13,934
+genre,Suspense,completed_count,14,23281
+genre,Suspense,completed_count,15,30484
+genre,Suspense,completed_count,16,39617
+genre,Suspense,completed_count,17,35994
+genre,Suspense,completed_count,18,5630
+genre,Suspense,completed_count,19,1943
+genre,Suspense,completed_count,20,1889
+genre,Vampire,completed_count,1,14719
+genre,Vampire,completed_count,2,26243
+genre,Vampire,completed_count,3,5081
+genre,Vampire,completed_count,4,28927
+genre,Vampire,completed_count,5,777
+genre,Vampire,completed_count,6,2993
+genre,Vampire,completed_count,7,11633
+genre,Vampire,completed_count,8,24439
+genre,Vampire,completed_count,9,270
+genre,Vampire,completed_count,10,3457
+genre,Vampire,completed_count,11,17074
+genre,Vampire,completed_count,12,18277
+genre,Vampire,completed_count,13,4214
+genre,Vampire,completed_count,14,9260
+genre,Vampire,completed_count,15,31757
+genre,Vampire,completed_count,16,4752
+genre,Vampire,completed_count,17,7724
+genre,Vampire,completed_count,18,31758
+genre,Vampire,completed_count,19,31181
+genre,Vampire,completed_count,20,33988
+genre,Work Life,completed_count,1,1372
+genre,Work Life,completed_count,2,50762
+genre,Work Life,completed_count,3,48495
+genre,Work Life,completed_count,4,50141
+genre,Work Life,completed_count,5,51132
+genre,Work Life,completed_count,6,50185
+genre,Work Life,completed_count,7,50522
+genre,Work Life,completed_count,8,51211
+genre,Action,favorites_count,1,5114
+genre,Action,favorites_count,2,11061
+genre,Action,favorites_count,3,21
+genre,Action,favorites_count,4,16498
+genre,Action,favorites_count,5,1575
+genre,Action,favorites_count,6,1735
+genre,Action,favorites_count,7,30
+genre,Action,favorites_count,8,38000
+genre,Action,favorites_count,9,2001
+genre,Action,favorites_count,10,1
+genre,Action,favorites_count,11,2904
+genre,Action,favorites_count,12,20
+genre,Action,favorites_count,13,40748
+genre,Action,favorites_count,14,11757
+genre,Action,favorites_count,15,269
+genre,Action,favorites_count,16,30276
+genre,Action,favorites_count,17,918
+genre,Action,favorites_count,18,31964
+genre,Action,favorites_count,19,40028
+genre,Action,favorites_count,20,38524
+genre,Adventure,favorites_count,1,5114
+genre,Adventure,favorites_count,2,11061
+genre,Adventure,favorites_count,3,21
+genre,Adventure,favorites_count,4,1735
+genre,Adventure,favorites_count,5,2001
+genre,Adventure,favorites_count,6,1
+genre,Adventure,favorites_count,7,20
+genre,Adventure,favorites_count,8,11757
+genre,Adventure,favorites_count,9,269
+genre,Adventure,favorites_count,10,19815
+genre,Adventure,favorites_count,11,6702
+genre,Adventure,favorites_count,12,30831
+genre,Adventure,favorites_count,13,34599
+genre,Adventure,favorites_count,14,31933
+genre,Adventure,favorites_count,15,205
+genre,Adventure,favorites_count,16,813
+genre,Adventure,favorites_count,17,14719
+genre,Adventure,favorites_count,18,37521
+genre,Adventure,favorites_count,19,20507
+genre,Adventure,favorites_count,20,199
+genre,Avant Garde,favorites_count,1,30
+genre,Avant Garde,favorites_count,2,227
+genre,Avant Garde,favorites_count,3,32
+genre,Avant Garde,favorites_count,4,339
+genre,Avant Garde,favorites_count,5,35120
+genre,Avant Garde,favorites_count,6,437
+genre,Avant Garde,favorites_count,7,10721
+genre,Avant Garde,favorites_count,8,323
+genre,Avant Garde,favorites_count,9,1943
+genre,Avant Garde,favorites_count,10,885
+genre,Avant Garde,favorites_count,11,875
+genre,Avant Garde,favorites_count,12,369
+genre,Avant Garde,favorites_count,13,601
+genre,Avant Garde,favorites_count,14,37451
+genre,Avant Garde,favorites_count,15,48488
+genre,Avant Garde,favorites_count,16,441
+genre,Avant Garde,favorites_count,17,3220
+genre,Avant Garde,favorites_count,18,19383
+genre,Avant Garde,favorites_count,19,40333
+genre,Avant Garde,favorites_count,20,6560
+genre,Award Winning,favorites_count,1,199
+genre,Award Winning,favorites_count,2,5365
+genre,Award Winning,favorites_count,3,50206
+genre,Award Winning,favorites_count,4,49956
+genre,Award Winning,favorites_count,5,49976
+genre,Award Winning,favorites_count,6,49977
+genre,Award Winning,favorites_count,7,51071
+genre,Boys Love,favorites_count,1,39533
+genre,Boys Love,favorites_count,2,30346
+genre,Boys Love,favorites_count,3,3092
+genre,Boys Love,favorites_count,4,9926
+genre,Boys Love,favorites_count,5,40615
+genre,Boys Love,favorites_count,6,44055
+genre,Boys Love,favorites_count,7,1639
+genre,Boys Love,favorites_count,8,37597
+genre,Boys Love,favorites_count,9,21105
+genre,Boys Love,favorites_count,10,40421
+genre,Boys Love,favorites_count,11,149
+genre,Boys Love,favorites_count,12,33654
+genre,Boys Love,favorites_count,13,243
+genre,Boys Love,favorites_count,14,31680
+genre,Boys Love,favorites_count,15,4814
+genre,Boys Love,favorites_count,16,7058
+genre,Boys Love,favorites_count,17,37585
+genre,Boys Love,favorites_count,18,11123
+genre,Boys Love,favorites_count,19,49053
+genre,Boys Love,favorites_count,20,25649
+genre,Cars,favorites_count,1,185
+genre,Cars,favorites_count,2,6675
+genre,Cars,favorites_count,3,18
+genre,Cars,favorites_count,4,186
+genre,Cars,favorites_count,5,22507
+genre,Cars,favorites_count,6,15059
+genre,Cars,favorites_count,7,187
+genre,Cars,favorites_count,8,40532
+genre,Cars,favorites_count,9,2608
+genre,Cars,favorites_count,10,388
+genre,Cars,favorites_count,11,44235
+genre,Cars,favorites_count,12,1445
+genre,Cars,favorites_count,13,821
+genre,Cars,favorites_count,14,822
+genre,Cars,favorites_count,15,917
+genre,Cars,favorites_count,16,19613
+genre,Cars,favorites_count,17,3101
+genre,Cars,favorites_count,18,5228
+genre,Cars,favorites_count,19,50846
+genre,Cars,favorites_count,20,30952
+genre,Comedy,favorites_count,1,5114
+genre,Comedy,favorites_count,2,21
+genre,Comedy,favorites_count,3,1735
+genre,Comedy,favorites_count,4,2001
+genre,Comedy,favorites_count,5,1
+genre,Comedy,favorites_count,6,20
+genre,Comedy,favorites_count,7,4181
+genre,Comedy,favorites_count,8,20583
+genre,Comedy,favorites_count,9,269
+genre,Comedy,favorites_count,10,30276
+genre,Comedy,favorites_count,11,918
+genre,Comedy,favorites_count,12,4224
+genre,Comedy,favorites_count,13,31964
+genre,Comedy,favorites_count,14,6547
+genre,Comedy,favorites_count,15,19815
+genre,Comedy,favorites_count,16,6702
+genre,Comedy,favorites_count,17,37450
+genre,Comedy,favorites_count,18,30831
+genre,Comedy,favorites_count,19,32182
+genre,Comedy,favorites_count,20,34572
+genre,Demons,favorites_count,1,38000
+genre,Demons,favorites_count,2,40748
+genre,Demons,favorites_count,3,37430
+genre,Demons,favorites_count,4,33
+genre,Demons,favorites_count,5,4898
+genre,Demons,favorites_count,6,11617
+genre,Demons,favorites_count,7,35120
+genre,Demons,favorites_count,8,392
+genre,Demons,favorites_count,9,47778
+genre,Demons,favorites_count,10,249
+genre,Demons,favorites_count,11,37520
+genre,Demons,favorites_count,12,9919
+genre,Demons,favorites_count,13,4081
+genre,Demons,favorites_count,14,1482
+genre,Demons,favorites_count,15,14713
+genre,Demons,favorites_count,16,40456
+genre,Demons,favorites_count,17,15809
+genre,Demons,favorites_count,18,39551
+genre,Demons,favorites_count,19,41487
+genre,Demons,favorites_count,20,530
+genre,Drama,favorites_count,1,5114
+genre,Drama,favorites_count,2,9253
+genre,Drama,favorites_count,3,21
+genre,Drama,favorites_count,4,16498
+genre,Drama,favorites_count,5,1575
+genre,Drama,favorites_count,6,30
+genre,Drama,favorites_count,7,32281
+genre,Drama,favorites_count,8,23273
+genre,Drama,favorites_count,9,28851
+genre,Drama,favorites_count,10,1
+genre,Drama,favorites_count,11,2904
+genre,Drama,favorites_count,12,4181
+genre,Drama,favorites_count,13,20583
+genre,Drama,favorites_count,14,31240
+genre,Drama,favorites_count,15,40028
+genre,Drama,favorites_count,16,38524
+genre,Drama,favorites_count,17,33352
+genre,Drama,favorites_count,18,9756
+genre,Drama,favorites_count,19,6547
+genre,Drama,favorites_count,20,22319
+genre,Ecchi,favorites_count,1,19815
+genre,Ecchi,favorites_count,2,18679
+genre,Ecchi,favorites_count,3,28171
+genre,Ecchi,favorites_count,4,39535
+genre,Ecchi,favorites_count,5,11617
+genre,Ecchi,favorites_count,6,45576
+genre,Ecchi,favorites_count,7,8074
+genre,Ecchi,favorites_count,8,40010
+genre,Ecchi,favorites_count,9,30296
+genre,Ecchi,favorites_count,10,1195
+genre,Ecchi,favorites_count,11,30240
+genre,Ecchi,favorites_count,12,8795
+genre,Ecchi,favorites_count,13,40750
+genre,Ecchi,favorites_count,14,268
+genre,Ecchi,favorites_count,15,15451
+genre,Ecchi,favorites_count,16,23277
+genre,Ecchi,favorites_count,17,3455
+genre,Ecchi,favorites_count,18,11597
+genre,Ecchi,favorites_count,19,24703
+genre,Ecchi,favorites_count,20,5958
+genre,Erotica,favorites_count,1,40746
+genre,Erotica,favorites_count,2,37585
+genre,Erotica,favorites_count,3,47591
+genre,Erotica,favorites_count,4,7748
+genre,Erotica,favorites_count,5,21521
+genre,Erotica,favorites_count,6,719
+genre,Erotica,favorites_count,7,44044
+genre,Erotica,favorites_count,8,46701
+genre,Erotica,favorites_count,9,8634
+genre,Erotica,favorites_count,10,39761
+genre,Erotica,favorites_count,11,2432
+genre,Erotica,favorites_count,12,39337
+genre,Erotica,favorites_count,13,37281
+genre,Erotica,favorites_count,14,47792
+genre,Erotica,favorites_count,15,2148
+genre,Erotica,favorites_count,16,4473
+genre,Erotica,favorites_count,17,2238
+genre,Erotica,favorites_count,18,39963
+genre,Erotica,favorites_count,19,28779
+genre,Erotica,favorites_count,20,746
+genre,Fantasy,favorites_count,1,5114
+genre,Fantasy,favorites_count,2,11061
+genre,Fantasy,favorites_count,3,21
+genre,Fantasy,favorites_count,4,16498
+genre,Fantasy,favorites_count,5,11757
+genre,Fantasy,favorites_count,6,31240
+genre,Fantasy,favorites_count,7,40028
+genre,Fantasy,favorites_count,8,38524
+genre,Fantasy,favorites_count,9,33352
+genre,Fantasy,favorites_count,10,19815
+genre,Fantasy,favorites_count,11,6702
+genre,Fantasy,favorites_count,12,30831
+genre,Fantasy,favorites_count,13,34599
+genre,Fantasy,favorites_count,14,34572
+genre,Fantasy,favorites_count,15,813
+genre,Fantasy,favorites_count,16,10087
+genre,Fantasy,favorites_count,17,22199
+genre,Fantasy,favorites_count,18,35790
+genre,Fantasy,favorites_count,19,121
+genre,Fantasy,favorites_count,20,457
+genre,Game,favorites_count,1,11757
+genre,Game,favorites_count,2,19815
+genre,Game,favorites_count,3,28223
+genre,Game,favorites_count,4,29803
+genre,Game,favorites_count,5,31646
+genre,Game,favorites_count,6,35180
+genre,Game,favorites_count,7,17265
+genre,Game,favorites_count,8,34933
+genre,Game,favorites_count,9,21881
+genre,Game,favorites_count,10,3002
+genre,Game,favorites_count,11,10800
+genre,Game,favorites_count,12,33674
+genre,Game,favorites_count,13,36474
+genre,Game,favorites_count,14,37675
+genre,Game,favorites_count,15,481
+genre,Game,favorites_count,16,35073
+genre,Game,favorites_count,17,11759
+genre,Game,favorites_count,18,33926
+genre,Game,favorites_count,19,31765
+genre,Game,favorites_count,20,39597
+genre,Girls Love,favorites_count,1,37786
+genre,Girls Love,favorites_count,2,10495
+genre,Girls Love,favorites_count,3,34382
+genre,Girls Love,favorites_count,4,37517
+genre,Girls Love,favorites_count,5,855
+genre,Girls Love,favorites_count,6,20047
+genre,Girls Love,favorites_count,7,39790
+genre,Girls Love,favorites_count,8,98
+genre,Girls Love,favorites_count,9,3342
+genre,Girls Love,favorites_count,10,19429
+genre,Girls Love,favorites_count,11,12403
+genre,Girls Love,favorites_count,12,37993
+genre,Girls Love,favorites_count,13,36214
+genre,Girls Love,favorites_count,14,795
+genre,Girls Love,favorites_count,15,6205
+genre,Girls Love,favorites_count,16,26165
+genre,Girls Love,favorites_count,17,143
+genre,Girls Love,favorites_count,18,30279
+genre,Girls Love,favorites_count,19,158
+genre,Girls Love,favorites_count,20,35241
+genre,Gourmet,favorites_count,1,28171
+genre,Gourmet,favorites_count,2,32282
+genre,Gourmet,favorites_count,3,35788
+genre,Gourmet,favorites_count,4,36949
+genre,Gourmet,favorites_count,5,39940
+genre,Gourmet,favorites_count,6,40902
+genre,Gourmet,favorites_count,7,10396
+genre,Gourmet,favorites_count,8,36754
+genre,Gourmet,favorites_count,9,32828
+genre,Gourmet,favorites_count,10,6586
+genre,Gourmet,favorites_count,11,31636
+genre,Gourmet,favorites_count,12,28
+genre,Gourmet,favorites_count,13,10033
+genre,Gourmet,favorites_count,14,34012
+genre,Gourmet,favorites_count,15,37033
+genre,Gourmet,favorites_count,16,1589
+genre,Gourmet,favorites_count,17,48804
+genre,Gourmet,favorites_count,18,35484
+genre,Gourmet,favorites_count,19,3001
+genre,Gourmet,favorites_count,20,36049
+genre,Harem,favorites_count,1,853
+genre,Harem,favorites_count,2,11617
+genre,Harem,favorites_count,3,38101
+genre,Harem,favorites_count,4,18897
+genre,Harem,favorites_count,5,39783
+genre,Harem,favorites_count,6,15583
+genre,Harem,favorites_count,7,1195
+genre,Harem,favorites_count,8,8525
+genre,Harem,favorites_count,9,36882
+genre,Harem,favorites_count,10,40750
+genre,Harem,favorites_count,11,15451
+genre,Harem,favorites_count,12,17729
+genre,Harem,favorites_count,13,23277
+genre,Harem,favorites_count,14,3455
+genre,Harem,favorites_count,15,28677
+genre,Harem,favorites_count,16,24703
+genre,Harem,favorites_count,17,5958
+genre,Harem,favorites_count,18,25157
+genre,Harem,favorites_count,19,30307
+genre,Harem,favorites_count,20,40507
+genre,Hentai,favorites_count,1,1639
+genre,Hentai,favorites_count,2,10779
+genre,Hentai,favorites_count,3,29575
+genre,Hentai,favorites_count,4,22429
+genre,Hentai,favorites_count,5,10851
+genre,Hentai,favorites_count,6,11827
+genre,Hentai,favorites_count,7,7411
+genre,Hentai,favorites_count,8,368
+genre,Hentai,favorites_count,9,32587
+genre,Hentai,favorites_count,10,7748
+genre,Hentai,favorites_count,11,6893
+genre,Hentai,favorites_count,12,25345
+genre,Hentai,favorites_count,13,24641
+genre,Hentai,favorites_count,14,21521
+genre,Hentai,favorites_count,15,41261
+genre,Hentai,favorites_count,16,13221
+genre,Hentai,favorites_count,17,21829
+genre,Hentai,favorites_count,18,4866
+genre,Hentai,favorites_count,19,39392
+genre,Hentai,favorites_count,20,5391
+genre,Historical,favorites_count,1,38000
+genre,Historical,favorites_count,2,918
+genre,Historical,favorites_count,3,205
+genre,Historical,favorites_count,4,37521
+genre,Historical,favorites_count,5,457
+genre,Historical,favorites_count,6,2251
+genre,Historical,favorites_count,7,4898
+genre,Historical,favorites_count,8,2966
+genre,Historical,favorites_count,9,47778
+genre,Historical,favorites_count,10,249
+genre,Historical,favorites_count,11,37520
+genre,Historical,favorites_count,12,28977
+genre,Historical,favorites_count,13,40456
+genre,Historical,favorites_count,14,6594
+genre,Historical,favorites_count,15,45
+genre,Historical,favorites_count,16,6114
+genre,Historical,favorites_count,17,8425
+genre,Historical,favorites_count,18,9969
+genre,Historical,favorites_count,19,32998
+genre,Historical,favorites_count,20,2246
+genre,Horror,favorites_count,1,22319
+genre,Horror,favorites_count,2,37779
+genre,Horror,favorites_count,3,22535
+genre,Horror,favorites_count,4,226
+genre,Horror,favorites_count,5,33
+genre,Horror,favorites_count,6,13125
+genre,Horror,favorites_count,7,934
+genre,Horror,favorites_count,8,35120
+genre,Horror,favorites_count,9,777
+genre,Horror,favorites_count,10,11111
+genre,Horror,favorites_count,11,437
+genre,Horror,favorites_count,12,47
+genre,Horror,favorites_count,13,27899
+genre,Horror,favorites_count,14,8074
+genre,Horror,favorites_count,15,16592
+genre,Horror,favorites_count,16,7724
+genre,Horror,favorites_count,17,2246
+genre,Horror,favorites_count,18,38668
+genre,Horror,favorites_count,19,6880
+genre,Horror,favorites_count,20,270
+genre,Josei,favorites_count,1,10800
+genre,Josei,favorites_count,2,12531
+genre,Josei,favorites_count,3,10162
+genre,Josei,favorites_count,4,28735
+genre,Josei,favorites_count,5,1698
+genre,Josei,favorites_count,6,8129
+genre,Josei,favorites_count,7,16
+genre,Josei,favorites_count,8,322
+genre,Josei,favorites_count,9,33095
+genre,Josei,favorites_count,10,5525
+genre,Josei,favorites_count,11,6895
+genre,Josei,favorites_count,12,14397
+genre,Josei,favorites_count,13,149
+genre,Josei,favorites_count,14,37379
+genre,Josei,favorites_count,15,31229
+genre,Josei,favorites_count,16,16035
+genre,Josei,favorites_count,17,1142
+genre,Josei,favorites_count,18,12815
+genre,Josei,favorites_count,19,44516
+genre,Josei,favorites_count,20,9065
+genre,Kids,favorites_count,1,552
+genre,Kids,favorites_count,2,527
+genre,Kids,favorites_count,3,31592
+genre,Kids,favorites_count,4,36259
+genre,Kids,favorites_count,5,1313
+genre,Kids,favorites_count,6,20159
+genre,Kids,favorites_count,7,2150
+genre,Kids,favorites_count,8,2471
+genre,Kids,favorites_count,9,19291
+genre,Kids,favorites_count,10,1816
+genre,Kids,favorites_count,11,34034
+genre,Kids,favorites_count,12,1565
+genre,Kids,favorites_count,13,40351
+genre,Kids,favorites_count,14,528
+genre,Kids,favorites_count,15,288
+genre,Kids,favorites_count,16,2961
+genre,Kids,favorites_count,17,32664
+genre,Kids,favorites_count,18,5962
+genre,Kids,favorites_count,19,2397
+genre,Kids,favorites_count,20,1441
+genre,Martial Arts,favorites_count,1,1735
+genre,Martial Arts,favorites_count,2,20
+genre,Martial Arts,favorites_count,3,813
+genre,Martial Arts,favorites_count,4,392
+genre,Martial Arts,favorites_count,5,223
+genre,Martial Arts,favorites_count,6,6594
+genre,Martial Arts,favorites_count,7,30694
+genre,Martial Arts,favorites_count,8,34566
+genre,Martial Arts,favorites_count,9,44
+genre,Martial Arts,favorites_count,10,210
+genre,Martial Arts,favorites_count,11,41353
+genre,Martial Arts,favorites_count,12,1559
+genre,Martial Arts,favorites_count,13,6033
+genre,Martial Arts,favorites_count,14,36946
+genre,Martial Arts,favorites_count,15,967
+genre,Martial Arts,favorites_count,16,123
+genre,Martial Arts,favorites_count,17,16870
+genre,Martial Arts,favorites_count,18,34443
+genre,Martial Arts,favorites_count,19,10396
+genre,Martial Arts,favorites_count,20,9367
+genre,Mecha,favorites_count,1,1575
+genre,Mecha,favorites_count,2,30
+genre,Mecha,favorites_count,3,2001
+genre,Mecha,favorites_count,4,2904
+genre,Mecha,favorites_count,5,35849
+genre,Mecha,favorites_count,6,227
+genre,Mecha,favorites_count,7,32
+genre,Mecha,favorites_count,8,10793
+genre,Mecha,favorites_count,9,43
+genre,Mecha,favorites_count,10,41457
+genre,Mecha,favorites_count,11,237
+genre,Mecha,favorites_count,12,15583
+genre,Mecha,favorites_count,13,467
+genre,Mecha,favorites_count,14,48569
+genre,Mecha,favorites_count,15,3786
+genre,Mecha,favorites_count,16,2581
+genre,Mecha,favorites_count,17,71
+genre,Mecha,favorites_count,18,22729
+genre,Mecha,favorites_count,19,93
+genre,Mecha,favorites_count,20,3784
+genre,Military,favorites_count,1,5114
+genre,Military,favorites_count,2,16498
+genre,Military,favorites_count,3,1575
+genre,Military,favorites_count,4,2904
+genre,Military,favorites_count,5,40028
+genre,Military,favorites_count,6,38524
+genre,Military,favorites_count,7,121
+genre,Military,favorites_count,8,33
+genre,Military,favorites_count,9,48583
+genre,Military,favorites_count,10,25777
+genre,Military,favorites_count,11,777
+genre,Military,favorites_count,12,35760
+genre,Military,favorites_count,13,820
+genre,Military,favorites_count,14,26243
+genre,Military,favorites_count,15,47
+genre,Military,favorites_count,16,32615
+genre,Military,favorites_count,17,41457
+genre,Military,favorites_count,18,467
+genre,Military,favorites_count,19,28907
+genre,Military,favorites_count,20,48569
+genre,Music,favorites_count,1,23273
+genre,Music,favorites_count,2,877
+genre,Music,favorites_count,3,5680
+genre,Music,favorites_count,4,39533
+genre,Music,favorites_count,5,7791
+genre,Music,favorites_count,6,46095
+genre,Music,favorites_count,7,15051
+genre,Music,favorites_count,8,57
+genre,Music,favorites_count,9,12531
+genre,Music,favorites_count,10,27989
+genre,Music,favorites_count,11,1698
+genre,Music,favorites_count,12,48556
+genre,Music,favorites_count,13,3702
+genre,Music,favorites_count,14,18245
+genre,Music,favorites_count,15,31988
+genre,Music,favorites_count,16,32526
+genre,Music,favorites_count,17,37976
+genre,Music,favorites_count,18,19111
+genre,Music,favorites_count,19,37435
+genre,Music,favorites_count,20,9617
+genre,Mystery,favorites_count,1,1535
+genre,Mystery,favorites_count,2,16498
+genre,Mystery,favorites_count,3,40028
+genre,Mystery,favorites_count,4,38524
+genre,Mystery,favorites_count,5,22319
+genre,Mystery,favorites_count,6,5081
+genre,Mystery,favorites_count,7,31043
+genre,Mystery,favorites_count,8,19
+genre,Mystery,favorites_count,9,34599
+genre,Mystery,favorites_count,10,37779
+genre,Mystery,favorites_count,11,6746
+genre,Mystery,favorites_count,12,10620
+genre,Mystery,favorites_count,13,28223
+genre,Mystery,favorites_count,14,12189
+genre,Mystery,favorites_count,15,457
+genre,Mystery,favorites_count,16,2251
+genre,Mystery,favorites_count,17,17074
+genre,Mystery,favorites_count,18,48583
+genre,Mystery,favorites_count,19,31478
+genre,Mystery,favorites_count,20,4898
+genre,Parody,favorites_count,1,30276
+genre,Parody,favorites_count,2,918
+genre,Parody,favorites_count,3,30831
+genre,Parody,favorites_count,4,227
+genre,Parody,favorites_count,5,849
+genre,Parody,favorites_count,6,28977
+genre,Parody,favorites_count,7,32937
+genre,Parody,favorites_count,8,1887
+genre,Parody,favorites_count,9,9969
+genre,Parody,favorites_count,10,34134
+genre,Parody,favorites_count,11,8795
+genre,Parody,favorites_count,12,2605
+genre,Parody,favorites_count,13,5060
+genre,Parody,favorites_count,14,38040
+genre,Parody,favorites_count,15,31174
+genre,Parody,favorites_count,16,39486
+genre,Parody,favorites_count,17,2104
+genre,Parody,favorites_count,18,15417
+genre,Parody,favorites_count,19,34096
+genre,Parody,favorites_count,20,4382
+genre,Police,favorites_count,1,1535
+genre,Police,favorites_count,2,13601
+genre,Police,favorites_count,3,235
+genre,Police,favorites_count,4,43
+genre,Police,favorites_count,5,467
+genre,Police,favorites_count,6,323
+genre,Police,favorites_count,7,801
+genre,Police,favorites_count,8,41120
+genre,Police,favorites_count,9,40046
+genre,Police,favorites_count,10,570
+genre,Police,favorites_count,11,23281
+genre,Police,favorites_count,12,32827
+genre,Police,favorites_count,13,33337
+genre,Police,favorites_count,14,16774
+genre,Police,favorites_count,15,468
+genre,Police,favorites_count,16,1096
+genre,Police,favorites_count,17,7
+genre,Police,favorites_count,18,522
+genre,Police,favorites_count,19,2994
+genre,Police,favorites_count,20,21339
+genre,Psychological,favorites_count,1,9253
+genre,Psychological,favorites_count,2,1535
+genre,Psychological,favorites_count,3,30
+genre,Psychological,favorites_count,4,31240
+genre,Psychological,favorites_count,5,9756
+genre,Psychological,favorites_count,6,22319
+genre,Psychological,favorites_count,7,31043
+genre,Psychological,favorites_count,8,19
+genre,Psychological,favorites_count,9,13601
+genre,Psychological,favorites_count,10,37779
+genre,Psychological,favorites_count,11,37999
+genre,Psychological,favorites_count,12,22535
+genre,Psychological,favorites_count,13,10620
+genre,Psychological,favorites_count,14,227
+genre,Psychological,favorites_count,15,28223
+genre,Psychological,favorites_count,16,32
+genre,Psychological,favorites_count,17,1210
+genre,Psychological,favorites_count,18,226
+genre,Psychological,favorites_count,19,13125
+genre,Psychological,favorites_count,20,339
+genre,Romance,favorites_count,1,32281
+genre,Romance,favorites_count,2,23273
+genre,Romance,favorites_count,3,4181
+genre,Romance,favorites_count,4,11757
+genre,Romance,favorites_count,5,4224
+genre,Romance,favorites_count,6,5081
+genre,Romance,favorites_count,7,37450
+genre,Romance,favorites_count,8,37999
+genre,Romance,favorites_count,9,853
+genre,Romance,favorites_count,10,35849
+genre,Romance,favorites_count,11,2167
+genre,Romance,favorites_count,12,14813
+genre,Romance,favorites_count,13,13759
+genre,Romance,favorites_count,14,42897
+genre,Romance,favorites_count,15,1210
+genre,Romance,favorites_count,16,431
+genre,Romance,favorites_count,17,226
+genre,Romance,favorites_count,18,877
+genre,Romance,favorites_count,19,17074
+genre,Romance,favorites_count,20,7054
+genre,Samurai,favorites_count,1,918
+genre,Samurai,favorites_count,2,205
+genre,Samurai,favorites_count,3,37520
+genre,Samurai,favorites_count,4,28977
+genre,Samurai,favorites_count,5,45
+genre,Samurai,favorites_count,6,9969
+genre,Samurai,favorites_count,7,44
+genre,Samurai,favorites_count,8,31339
+genre,Samurai,favorites_count,9,39486
+genre,Samurai,favorites_count,10,2418
+genre,Samurai,favorites_count,11,15417
+genre,Samurai,favorites_count,12,34096
+genre,Samurai,favorites_count,13,15335
+genre,Samurai,favorites_count,14,6895
+genre,Samurai,favorites_count,15,1292
+genre,Samurai,favorites_count,16,67
+genre,Samurai,favorites_count,17,36838
+genre,Samurai,favorites_count,18,5355
+genre,Samurai,favorites_count,19,37491
+genre,Samurai,favorites_count,20,617
+genre,School,favorites_count,1,1575
+genre,School,favorites_count,2,32281
+genre,School,favorites_count,3,23273
+genre,School,favorites_count,4,28851
+genre,School,favorites_count,5,40748
+genre,School,favorites_count,6,20583
+genre,School,favorites_count,7,4224
+genre,School,favorites_count,8,31964
+genre,School,favorites_count,9,6547
+genre,School,favorites_count,10,37450
+genre,School,favorites_count,11,18679
+genre,School,favorites_count,12,37999
+genre,School,favorites_count,13,853
+genre,School,favorites_count,14,2167
+genre,School,favorites_count,15,24833
+genre,School,favorites_count,16,14813
+genre,School,favorites_count,17,13759
+genre,School,favorites_count,18,42897
+genre,School,favorites_count,19,12189
+genre,School,favorites_count,20,33255
+genre,Sci-Fi,favorites_count,1,9253
+genre,Sci-Fi,favorites_count,2,1575
+genre,Sci-Fi,favorites_count,3,30
+genre,Sci-Fi,favorites_count,4,2001
+genre,Sci-Fi,favorites_count,5,1
+genre,Sci-Fi,favorites_count,6,2904
+genre,Sci-Fi,favorites_count,7,30276
+genre,Sci-Fi,favorites_count,8,918
+genre,Sci-Fi,favorites_count,9,34599
+genre,Sci-Fi,favorites_count,10,13601
+genre,Sci-Fi,favorites_count,11,37779
+genre,Sci-Fi,favorites_count,12,22535
+genre,Sci-Fi,favorites_count,13,35849
+genre,Sci-Fi,favorites_count,14,227
+genre,Sci-Fi,favorites_count,15,32
+genre,Sci-Fi,favorites_count,16,38691
+genre,Sci-Fi,favorites_count,17,13125
+genre,Sci-Fi,favorites_count,18,339
+genre,Sci-Fi,favorites_count,19,10793
+genre,Sci-Fi,favorites_count,20,2025
+genre,Seinen,favorites_count,1,22319
+genre,Seinen,favorites_count,2,31043
+genre,Seinen,favorites_count,3,19
+genre,Seinen,favorites_count,4,37521
+genre,Seinen,favorites_count,5,37999
+genre,Seinen,favorites_count,6,22535
+genre,Seinen,favorites_count,7,457
+genre,Seinen,favorites_count,8,226
+genre,Seinen,favorites_count,9,33
+genre,Seinen,favorites_count,10,31478
+genre,Seinen,favorites_count,11,777
+genre,Seinen,favorites_count,12,40591
+genre,Seinen,favorites_count,13,889
+genre,Seinen,favorites_count,14,37105
+genre,Seinen,favorites_count,15,31646
+genre,Seinen,favorites_count,16,35180
+genre,Seinen,favorites_count,17,22135
+genre,Seinen,favorites_count,18,47
+genre,Seinen,favorites_count,19,43
+genre,Seinen,favorites_count,20,35557
+genre,Shoujo,favorites_count,1,853
+genre,Shoujo,favorites_count,2,36649
+genre,Shoujo,favorites_count,3,877
+genre,Shoujo,favorites_count,4,7054
+genre,Shoujo,favorites_count,5,42938
+genre,Shoujo,favorites_count,6,4081
+genre,Shoujo,favorites_count,7,25013
+genre,Shoujo,favorites_count,8,14713
+genre,Shoujo,favorites_count,9,38680
+genre,Shoujo,favorites_count,10,232
+genre,Shoujo,favorites_count,11,6045
+genre,Shoujo,favorites_count,12,10408
+genre,Shoujo,favorites_count,13,530
+genre,Shoujo,favorites_count,14,21995
+genre,Shoujo,favorites_count,15,2034
+genre,Shoujo,favorites_count,16,120
+genre,Shoujo,favorites_count,17,3457
+genre,Shoujo,favorites_count,18,440
+genre,Shoujo,favorites_count,19,30123
+genre,Shoujo,favorites_count,20,32729
+genre,Shounen,favorites_count,1,5114
+genre,Shounen,favorites_count,2,11061
+genre,Shounen,favorites_count,3,21
+genre,Shounen,favorites_count,4,1535
+genre,Shounen,favorites_count,5,16498
+genre,Shounen,favorites_count,6,1735
+genre,Shounen,favorites_count,7,23273
+genre,Shounen,favorites_count,8,38000
+genre,Shounen,favorites_count,9,28851
+genre,Shounen,favorites_count,10,20
+genre,Shounen,favorites_count,11,40748
+genre,Shounen,favorites_count,12,20583
+genre,Shounen,favorites_count,13,269
+genre,Shounen,favorites_count,14,918
+genre,Shounen,favorites_count,15,31964
+genre,Shounen,favorites_count,16,40028
+genre,Shounen,favorites_count,17,38524
+genre,Shounen,favorites_count,18,6702
+genre,Shounen,favorites_count,19,34572
+genre,Shounen,favorites_count,20,31933
+genre,Slice of Life,favorites_count,1,4181
+genre,Slice of Life,favorites_count,2,4224
+genre,Slice of Life,favorites_count,3,33352
+genre,Slice of Life,favorites_count,4,32182
+genre,Slice of Life,favorites_count,5,9989
+genre,Slice of Life,favorites_count,6,37510
+genre,Slice of Life,favorites_count,7,2167
+genre,Slice of Life,favorites_count,8,14813
+genre,Slice of Life,favorites_count,9,13759
+genre,Slice of Life,favorites_count,10,42897
+genre,Slice of Life,favorites_count,11,12189
+genre,Slice of Life,favorites_count,12,457
+genre,Slice of Life,favorites_count,13,33255
+genre,Slice of Life,favorites_count,14,877
+genre,Slice of Life,favorites_count,15,5680
+genre,Slice of Life,favorites_count,16,10165
+genre,Slice of Life,favorites_count,17,14741
+genre,Slice of Life,favorites_count,18,36098
+genre,Slice of Life,favorites_count,19,33206
+genre,Slice of Life,favorites_count,20,37105
+genre,Space,favorites_count,1,1
+genre,Space,favorites_count,2,820
+genre,Space,favorites_count,3,20057
+genre,Space,favorites_count,4,2581
+genre,Space,favorites_count,5,329
+genre,Space,favorites_count,6,12431
+genre,Space,favorites_count,7,93
+genre,Space,favorites_count,8,39198
+genre,Space,favorites_count,9,31251
+genre,Space,favorites_count,10,949
+genre,Space,favorites_count,11,90
+genre,Space,favorites_count,12,400
+genre,Space,favorites_count,13,80
+genre,Space,favorites_count,14,85
+genre,Space,favorites_count,15,3572
+genre,Space,favorites_count,16,42192
+genre,Space,favorites_count,17,23327
+genre,Space,favorites_count,18,12029
+genre,Space,favorites_count,19,1088
+genre,Space,favorites_count,20,6336
+genre,Sports,favorites_count,1,20583
+genre,Sports,favorites_count,2,11771
+genre,Sports,favorites_count,3,32995
+genre,Sports,favorites_count,4,263
+genre,Sports,favorites_count,5,28891
+genre,Sports,favorites_count,6,32935
+genre,Sports,favorites_count,7,22135
+genre,Sports,favorites_count,8,42923
+genre,Sports,favorites_count,9,18507
+genre,Sports,favorites_count,10,185
+genre,Sports,favorites_count,11,10800
+genre,Sports,favorites_count,12,170
+genre,Sports,favorites_count,13,40776
+genre,Sports,favorites_count,14,37965
+genre,Sports,favorites_count,15,14131
+genre,Sports,favorites_count,16,24415
+genre,Sports,favorites_count,17,6675
+genre,Sports,favorites_count,18,38883
+genre,Sports,favorites_count,19,16894
+genre,Sports,favorites_count,20,18689
+genre,Super Power,favorites_count,1,11061
+genre,Super Power,favorites_count,2,21
+genre,Super Power,favorites_count,3,16498
+genre,Super Power,favorites_count,4,1575
+genre,Super Power,favorites_count,5,1735
+genre,Super Power,favorites_count,6,2904
+genre,Super Power,favorites_count,7,20
+genre,Super Power,favorites_count,8,269
+genre,Super Power,favorites_count,9,30276
+genre,Super Power,favorites_count,10,31964
+genre,Super Power,favorites_count,11,40028
+genre,Super Power,favorites_count,12,38524
+genre,Super Power,favorites_count,13,18679
+genre,Super Power,favorites_count,14,813
+genre,Super Power,favorites_count,15,48583
+genre,Super Power,favorites_count,16,31478
+genre,Super Power,favorites_count,17,28999
+genre,Super Power,favorites_count,18,25777
+genre,Super Power,favorites_count,19,35760
+genre,Super Power,favorites_count,20,33486
+genre,Supernatural,favorites_count,1,1535
+genre,Supernatural,favorites_count,2,32281
+genre,Supernatural,favorites_count,3,38000
+genre,Supernatural,favorites_count,4,4181
+genre,Supernatural,favorites_count,5,40748
+genre,Supernatural,favorites_count,6,269
+genre,Supernatural,favorites_count,7,30276
+genre,Supernatural,favorites_count,8,6547
+genre,Supernatural,favorites_count,9,19815
+genre,Supernatural,favorites_count,10,22319
+genre,Supernatural,favorites_count,11,5081
+genre,Supernatural,favorites_count,12,31043
+genre,Supernatural,favorites_count,13,37450
+genre,Supernatural,favorites_count,14,30831
+genre,Supernatural,favorites_count,15,32182
+genre,Supernatural,favorites_count,16,31933
+genre,Supernatural,favorites_count,17,14719
+genre,Supernatural,favorites_count,18,10087
+genre,Supernatural,favorites_count,19,9989
+genre,Supernatural,favorites_count,20,20507
+genre,Suspense,favorites_count,1,9253
+genre,Suspense,favorites_count,2,1535
+genre,Suspense,favorites_count,3,31240
+genre,Suspense,favorites_count,4,9756
+genre,Suspense,favorites_count,5,19
+genre,Suspense,favorites_count,6,13601
+genre,Suspense,favorites_count,7,37779
+genre,Suspense,favorites_count,8,10620
+genre,Suspense,favorites_count,9,28223
+genre,Suspense,favorites_count,10,23283
+genre,Suspense,favorites_count,11,934
+genre,Suspense,favorites_count,12,11111
+genre,Suspense,favorites_count,13,42203
+genre,Suspense,favorites_count,14,39587
+genre,Suspense,favorites_count,15,30484
+genre,Suspense,favorites_count,16,3002
+genre,Suspense,favorites_count,17,46095
+genre,Suspense,favorites_count,18,6114
+genre,Suspense,favorites_count,19,11981
+genre,Suspense,favorites_count,20,7724
+genre,Vampire,favorites_count,1,5081
+genre,Vampire,favorites_count,2,14719
+genre,Vampire,favorites_count,3,17074
+genre,Vampire,favorites_count,4,777
+genre,Vampire,favorites_count,5,26243
+genre,Vampire,favorites_count,6,35247
+genre,Vampire,favorites_count,7,7724
+genre,Vampire,favorites_count,8,3457
+genre,Vampire,favorites_count,9,24439
+genre,Vampire,favorites_count,10,31758
+genre,Vampire,favorites_count,11,270
+genre,Vampire,favorites_count,12,48580
+genre,Vampire,favorites_count,13,150
+genre,Vampire,favorites_count,14,2993
+genre,Vampire,favorites_count,15,9260
+genre,Vampire,favorites_count,16,28927
+genre,Vampire,favorites_count,17,31181
+genre,Vampire,favorites_count,18,4752
+genre,Vampire,favorites_count,19,18277
+genre,Vampire,favorites_count,20,31757
+genre,Work Life,favorites_count,1,50185
+genre,Work Life,favorites_count,2,1372
+genre,Work Life,favorites_count,3,50522
+genre,Work Life,favorites_count,4,48495
+genre,Work Life,favorites_count,5,50762
+genre,Work Life,favorites_count,6,50141
+genre,Work Life,favorites_count,7,51132
+genre,Work Life,favorites_count,8,51211
+genre,Action,score,1,38524
+genre,Action,score,2,5114
+genre,Action,score,3,48583
+genre,Action,score,4,11061
+genre,Action,score,5,15417
+genre,Action,score,6,9969
+genre,Action,score,7,47778
+genre,Action,score,8,2904
+genre,Action,score,9,34096
+genre,Action,score,10,15335
+genre,Action,score,11,39486
+genre,Action,score,12,40028
+genre,Action,score,13,37491
+genre,Action,score,14,28977
+genre,Action,score,15,31758
+genre,Action,score,16,37510
+genre,Action,score,17,36838
+genre,Action,score,18,1
+genre,Action,score,19,44
+genre,Action,score,20,164
+genre,Adventure,score,1,5114
+genre,Adventure,score,2,11061
+genre,Adventure,score,3,199
+genre,Adventure,score,4,40834
+genre,Adventure,score,5,1
+genre,Adventure,score,6,164
+genre,Adventure,score,7,37521
+genre,Adventure,score,8,431
+genre,Adventure,score,9,24701
+genre,Adventure,score,10,36862
+genre,Adventure,score,11,21939
+genre,Adventure,score,12,21
+genre,Adventure,score,13,34599
+genre,Adventure,score,14,2001
+genre,Adventure,score,15,37991
+genre,Adventure,score,16,457
+genre,Adventure,score,17,48661
+genre,Adventure,score,18,28957
+genre,Adventure,score,19,21329
+genre,Adventure,score,20,35839
+genre,Avant Garde,score,1,32
+genre,Avant Garde,score,2,437
+genre,Avant Garde,score,3,30
+genre,Avant Garde,score,4,1943
+genre,Avant Garde,score,5,227
+genre,Avant Garde,score,6,339
+genre,Avant Garde,score,7,10721
+genre,Avant Garde,score,8,875
+genre,Avant Garde,score,9,35120
+genre,Avant Garde,score,10,885
+genre,Avant Garde,score,11,323
+genre,Avant Garde,score,12,44059
+genre,Avant Garde,score,13,441
+genre,Avant Garde,score,14,28149
+genre,Avant Garde,score,15,37596
+genre,Avant Garde,score,16,601
+genre,Avant Garde,score,17,6795
+genre,Avant Garde,score,18,3508
+genre,Avant Garde,score,19,3220
+genre,Avant Garde,score,20,22419
+genre,Award Winning,score,1,199
+genre,Award Winning,score,2,5365
+genre,Award Winning,score,3,50206
+genre,Award Winning,score,4,49976
+genre,Award Winning,score,5,49977
+genre,Boys Love,score,1,39533
+genre,Boys Love,score,2,30346
+genre,Boys Love,score,3,49053
+genre,Boys Love,score,4,40421
+genre,Boys Love,score,5,48780
+genre,Boys Love,score,6,44055
+genre,Boys Love,score,7,40615
+genre,Boys Love,score,8,8063
+genre,Boys Love,score,9,11123
+genre,Boys Love,score,10,20371
+genre,Boys Love,score,11,20815
+genre,Boys Love,score,12,4814
+genre,Boys Love,score,13,13767
+genre,Boys Love,score,14,9926
+genre,Boys Love,score,15,25649
+genre,Boys Love,score,16,11135
+genre,Boys Love,score,17,3092
+genre,Boys Love,score,18,6553
+genre,Boys Love,score,19,40314
+genre,Boys Love,score,20,2238
+genre,Cars,score,1,6675
+genre,Cars,score,2,185
+genre,Cars,score,3,22507
+genre,Cars,score,4,186
+genre,Cars,score,5,18
+genre,Cars,score,6,15059
+genre,Cars,score,7,44235
+genre,Cars,score,8,187
+genre,Cars,score,9,30952
+genre,Cars,score,10,19613
+genre,Cars,score,11,28881
+genre,Cars,score,12,388
+genre,Cars,score,13,3931
+genre,Cars,score,14,1395
+genre,Cars,score,15,821
+genre,Cars,score,16,50846
+genre,Cars,score,17,12725
+genre,Cars,score,18,1393
+genre,Cars,score,19,1394
+genre,Cars,score,20,5228
+genre,Comedy,score,1,5114
+genre,Comedy,score,2,15417
+genre,Comedy,score,3,4181
+genre,Comedy,score,4,9969
+genre,Comedy,score,5,34096
+genre,Comedy,score,6,15335
+genre,Comedy,score,7,35247
+genre,Comedy,score,8,39486
+genre,Comedy,score,9,37491
+genre,Comedy,score,10,28977
+genre,Comedy,score,11,37510
+genre,Comedy,score,12,32935
+genre,Comedy,score,13,36838
+genre,Comedy,score,14,17074
+genre,Comedy,score,15,1
+genre,Comedy,score,16,263
+genre,Comedy,score,17,21
+genre,Comedy,score,18,28891
+genre,Comedy,score,19,5258
+genre,Comedy,score,20,918
+genre,Demons,score,1,47778
+genre,Demons,score,2,40456
+genre,Demons,score,3,40434
+genre,Demons,score,4,40748
+genre,Demons,score,5,11665
+genre,Demons,score,6,48561
+genre,Demons,score,7,34591
+genre,Demons,score,8,10379
+genre,Demons,score,9,32983
+genre,Demons,score,10,5300
+genre,Demons,score,11,38000
+genre,Demons,score,12,33
+genre,Demons,score,13,36538
+genre,Demons,score,14,39551
+genre,Demons,score,15,49926
+genre,Demons,score,16,392
+genre,Demons,score,17,2246
+genre,Demons,score,18,30709
+genre,Demons,score,19,20651
+genre,Demons,score,20,34534
+genre,Drama,score,1,38524
+genre,Drama,score,2,5114
+genre,Drama,score,3,48583
+genre,Drama,score,4,9253
+genre,Drama,score,5,28851
+genre,Drama,score,6,37987
+genre,Drama,score,7,42938
+genre,Drama,score,8,35180
+genre,Drama,score,9,4181
+genre,Drama,score,10,2904
+genre,Drama,score,11,32281
+genre,Drama,score,12,39486
+genre,Drama,score,13,40028
+genre,Drama,score,14,199
+genre,Drama,score,15,32935
+genre,Drama,score,16,45576
+genre,Drama,score,17,44074
+genre,Drama,score,18,1
+genre,Drama,score,19,44
+genre,Drama,score,20,37521
+genre,Ecchi,score,1,45576
+genre,Ecchi,score,2,36885
+genre,Ecchi,score,3,39535
+genre,Ecchi,score,4,11597
+genre,Ecchi,score,5,28171
+genre,Ecchi,score,6,28025
+genre,Ecchi,score,7,32282
+genre,Ecchi,score,8,19815
+genre,Ecchi,score,9,50360
+genre,Ecchi,score,10,35788
+genre,Ecchi,score,11,268
+genre,Ecchi,score,12,36949
+genre,Ecchi,score,13,18679
+genre,Ecchi,score,14,15689
+genre,Ecchi,score,15,40010
+genre,Ecchi,score,16,966
+genre,Ecchi,score,17,30727
+genre,Ecchi,score,18,13203
+genre,Ecchi,score,19,39940
+genre,Ecchi,score,20,5781
+genre,Erotica,score,1,2238
+genre,Erotica,score,2,39761
+genre,Erotica,score,3,7748
+genre,Erotica,score,4,28779
+genre,Erotica,score,5,40746
+genre,Erotica,score,6,21521
+genre,Erotica,score,7,719
+genre,Erotica,score,8,8634
+genre,Erotica,score,9,3210
+genre,Erotica,score,10,5774
+genre,Erotica,score,11,10048
+genre,Erotica,score,12,2432
+genre,Erotica,score,13,49637
+genre,Erotica,score,14,4399
+genre,Erotica,score,15,30583
+genre,Erotica,score,16,747
+genre,Erotica,score,17,4473
+genre,Erotica,score,18,15291
+genre,Erotica,score,19,6041
+genre,Erotica,score,20,3375
+genre,Fantasy,score,1,38524
+genre,Fantasy,score,2,5114
+genre,Fantasy,score,3,48583
+genre,Fantasy,score,4,11061
+genre,Fantasy,score,5,37987
+genre,Fantasy,score,6,40028
+genre,Fantasy,score,7,40834
+genre,Fantasy,score,8,45576
+genre,Fantasy,score,9,164
+genre,Fantasy,score,10,33050
+genre,Fantasy,score,11,431
+genre,Fantasy,score,12,24701
+genre,Fantasy,score,13,36862
+genre,Fantasy,score,14,21939
+genre,Fantasy,score,15,21
+genre,Fantasy,score,16,34599
+genre,Fantasy,score,17,35760
+genre,Fantasy,score,18,33352
+genre,Fantasy,score,19,12355
+genre,Fantasy,score,20,457
+genre,Game,score,1,35180
+genre,Game,score,2,37379
+genre,Game,score,3,14397
+genre,Game,score,4,31646
+genre,Game,score,5,3002
+genre,Game,score,6,10271
+genre,Game,score,7,37078
+genre,Game,score,8,33674
+genre,Game,score,9,28223
+genre,Game,score,10,10800
+genre,Game,score,11,40080
+genre,Game,score,12,19815
+genre,Game,score,13,42916
+genre,Game,score,14,38422
+genre,Game,score,15,135
+genre,Game,score,16,645
+genre,Game,score,17,39570
+genre,Game,score,18,37932
+genre,Game,score,19,37675
+genre,Game,score,20,658
+genre,Girls Love,score,1,30279
+genre,Girls Love,score,2,23225
+genre,Girls Love,score,3,37786
+genre,Girls Love,score,4,1729
+genre,Girls Love,score,5,12403
+genre,Girls Love,score,6,30902
+genre,Girls Love,score,7,3750
+genre,Girls Love,score,8,36214
+genre,Girls Love,score,9,795
+genre,Girls Love,score,10,37773
+genre,Girls Love,score,11,444
+genre,Girls Love,score,12,441
+genre,Girls Love,score,13,10495
+genre,Girls Love,score,14,35241
+genre,Girls Love,score,15,38999
+genre,Girls Love,score,16,98
+genre,Girls Love,score,17,3468
+genre,Girls Love,score,18,37890
+genre,Girls Love,score,19,3469
+genre,Girls Love,score,20,3342
+genre,Gourmet,score,1,28171
+genre,Gourmet,score,2,32282
+genre,Gourmet,score,3,35788
+genre,Gourmet,score,4,36949
+genre,Gourmet,score,5,28
+genre,Gourmet,score,6,6586
+genre,Gourmet,score,7,37033
+genre,Gourmet,score,8,39940
+genre,Gourmet,score,9,48804
+genre,Gourmet,score,10,9441
+genre,Gourmet,score,11,110
+genre,Gourmet,score,12,19511
+genre,Gourmet,score,13,36513
+genre,Gourmet,score,14,3001
+genre,Gourmet,score,15,32828
+genre,Gourmet,score,16,34480
+genre,Gourmet,score,17,11553
+genre,Gourmet,score,18,36754
+genre,Gourmet,score,19,49847
+genre,Gourmet,score,20,1078
+genre,Harem,score,1,36885
+genre,Harem,score,2,853
+genre,Harem,score,3,39783
+genre,Harem,score,4,16706
+genre,Harem,score,5,10080
+genre,Harem,score,6,48755
+genre,Harem,score,7,29095
+genre,Harem,score,8,30727
+genre,Harem,score,9,5781
+genre,Harem,score,10,15117
+genre,Harem,score,11,38101
+genre,Harem,score,12,540
+genre,Harem,score,13,4192
+genre,Harem,score,14,8525
+genre,Harem,score,15,36720
+genre,Harem,score,16,9790
+genre,Harem,score,17,13851
+genre,Harem,score,18,31711
+genre,Harem,score,19,41848
+genre,Harem,score,20,18897
+genre,Hentai,score,1,50488
+genre,Hentai,score,2,48755
+genre,Hentai,score,3,39392
+genre,Hentai,score,4,29575
+genre,Hentai,score,5,41261
+genre,Hentai,score,6,25345
+genre,Hentai,score,7,36720
+genre,Hentai,score,8,10779
+genre,Hentai,score,9,41848
+genre,Hentai,score,10,7411
+genre,Hentai,score,11,22069
+genre,Hentai,score,12,15843
+genre,Hentai,score,13,15537
+genre,Hentai,score,14,22429
+genre,Hentai,score,15,48697
+genre,Hentai,score,16,12375
+genre,Hentai,score,17,24641
+genre,Hentai,score,18,39058
+genre,Hentai,score,19,43465
+genre,Hentai,score,20,39530
+genre,Historical,score,1,15417
+genre,Historical,score,2,9969
+genre,Historical,score,3,47778
+genre,Historical,score,4,34096
+genre,Historical,score,5,15335
+genre,Historical,score,6,39486
+genre,Historical,score,7,37491
+genre,Historical,score,8,28977
+genre,Historical,score,9,36838
+genre,Historical,score,10,44
+genre,Historical,score,11,37521
+genre,Historical,score,12,24701
+genre,Historical,score,13,40456
+genre,Historical,score,14,40434
+genre,Historical,score,15,21939
+genre,Historical,score,16,33095
+genre,Historical,score,17,40682
+genre,Historical,score,18,918
+genre,Historical,score,19,457
+genre,Historical,score,20,38000
+genre,Horror,score,1,37779
+genre,Horror,score,2,437
+genre,Horror,score,3,33
+genre,Horror,score,4,777
+genre,Horror,score,5,2246
+genre,Horror,score,6,22535
+genre,Horror,score,7,13125
+genre,Horror,score,8,12115
+genre,Horror,score,9,47
+genre,Horror,score,10,1943
+genre,Horror,score,11,38668
+genre,Horror,score,12,543
+genre,Horror,score,13,12113
+genre,Horror,score,14,1594
+genre,Horror,score,15,934
+genre,Horror,score,16,36106
+genre,Horror,score,17,12445
+genre,Horror,score,18,22319
+genre,Horror,score,19,10083
+genre,Horror,score,20,35120
+genre,Josei,score,1,33095
+genre,Josei,score,2,28735
+genre,Josei,score,3,37379
+genre,Josei,score,4,10162
+genre,Josei,score,5,14397
+genre,Josei,score,6,12531
+genre,Josei,score,7,5690
+genre,Josei,score,8,1698
+genre,Josei,score,9,1142
+genre,Josei,score,10,10800
+genre,Josei,score,11,4477
+genre,Josei,score,12,8129
+genre,Josei,score,13,11113
+genre,Josei,score,14,16
+genre,Josei,score,15,8038
+genre,Josei,score,16,322
+genre,Josei,score,17,13119
+genre,Josei,score,18,644
+genre,Josei,score,19,13117
+genre,Josei,score,20,25801
+genre,Kids,score,1,40853
+genre,Kids,score,2,2150
+genre,Kids,score,3,21469
+genre,Kids,score,4,36259
+genre,Kids,score,5,44235
+genre,Kids,score,6,44273
+genre,Kids,score,7,2828
+genre,Kids,score,8,2397
+genre,Kids,score,9,552
+genre,Kids,score,10,20159
+genre,Kids,score,11,42476
+genre,Kids,score,12,2313
+genre,Kids,score,13,2471
+genre,Kids,score,14,8687
+genre,Kids,score,15,31592
+genre,Kids,score,16,9288
+genre,Kids,score,17,528
+genre,Kids,score,18,35777
+genre,Kids,score,19,38262
+genre,Kids,score,20,2961
+genre,Martial Arts,score,1,44
+genre,Martial Arts,score,2,49701
+genre,Martial Arts,score,3,45556
+genre,Martial Arts,score,4,51083
+genre,Martial Arts,score,5,392
+genre,Martial Arts,score,6,6594
+genre,Martial Arts,score,7,40784
+genre,Martial Arts,score,8,42977
+genre,Martial Arts,score,9,44189
+genre,Martial Arts,score,10,48631
+genre,Martial Arts,score,11,42498
+genre,Martial Arts,score,12,1735
+genre,Martial Arts,score,13,42497
+genre,Martial Arts,score,14,813
+genre,Martial Arts,score,15,36946
+genre,Martial Arts,score,16,42496
+genre,Martial Arts,score,17,49063
+genre,Martial Arts,score,18,49638
+genre,Martial Arts,score,19,9130
+genre,Martial Arts,score,20,37822
+genre,Mecha,score,1,2904
+genre,Mecha,score,2,1575
+genre,Mecha,score,3,3786
+genre,Mecha,score,4,48569
+genre,Mecha,score,5,2001
+genre,Mecha,score,6,4565
+genre,Mecha,score,7,32
+genre,Mecha,score,8,801
+genre,Mecha,score,9,467
+genre,Mecha,score,10,30
+genre,Mecha,score,11,3784
+genre,Mecha,score,12,43
+genre,Mecha,score,13,10937
+genre,Mecha,score,14,33051
+genre,Mecha,score,15,41457
+genre,Mecha,score,16,4107
+genre,Mecha,score,17,1566
+genre,Mecha,score,18,2449
+genre,Mecha,score,19,2581
+genre,Mecha,score,20,3927
+genre,Military,score,1,38524
+genre,Military,score,2,5114
+genre,Military,score,3,48583
+genre,Military,score,4,2904
+genre,Military,score,5,40028
+genre,Military,score,6,1575
+genre,Military,score,7,820
+genre,Military,score,8,35760
+genre,Military,score,9,40682
+genre,Military,score,10,48569
+genre,Military,score,11,16498
+genre,Military,score,12,25777
+genre,Military,score,13,33
+genre,Military,score,14,801
+genre,Military,score,15,467
+genre,Military,score,16,777
+genre,Military,score,17,17389
+genre,Military,score,18,10937
+genre,Military,score,19,12029
+genre,Military,score,20,37055
+genre,Music,score,1,40664
+genre,Music,score,2,23273
+genre,Music,score,3,46095
+genre,Music,score,4,38889
+genre,Music,score,5,877
+genre,Music,score,6,44376
+genre,Music,score,7,39533
+genre,Music,score,8,9617
+genre,Music,score,9,12531
+genre,Music,score,10,31988
+genre,Music,score,11,5690
+genre,Music,score,12,32843
+genre,Music,score,13,57
+genre,Music,score,14,1698
+genre,Music,score,15,45577
+genre,Music,score,16,49053
+genre,Music,score,17,40421
+genre,Music,score,18,35677
+genre,Music,score,19,41781
+genre,Music,score,20,47904
+genre,Mystery,score,1,38524
+genre,Mystery,score,2,48583
+genre,Mystery,score,3,35247
+genre,Mystery,score,4,40028
+genre,Mystery,score,5,31758
+genre,Mystery,score,6,17074
+genre,Mystery,score,7,46102
+genre,Mystery,score,8,19
+genre,Mystery,score,9,24701
+genre,Mystery,score,10,36862
+genre,Mystery,score,11,21939
+genre,Mystery,score,12,34599
+genre,Mystery,score,13,35760
+genre,Mystery,score,14,1535
+genre,Mystery,score,15,7311
+genre,Mystery,score,16,31757
+genre,Mystery,score,17,457
+genre,Mystery,score,18,37779
+genre,Mystery,score,19,4282
+genre,Mystery,score,20,16498
+genre,Parody,score,1,15417
+genre,Parody,score,2,9969
+genre,Parody,score,3,34096
+genre,Parody,score,4,15335
+genre,Parody,score,5,39486
+genre,Parody,score,6,37491
+genre,Parody,score,7,28977
+genre,Parody,score,8,36838
+genre,Parody,score,9,918
+genre,Parody,score,10,7472
+genre,Parody,score,11,30276
+genre,Parody,score,12,35843
+genre,Parody,score,13,44087
+genre,Parody,score,14,38040
+genre,Parody,score,15,32366
+genre,Parody,score,16,6945
+genre,Parody,score,17,21899
+genre,Parody,score,18,32937
+genre,Parody,score,19,9735
+genre,Parody,score,20,25313
+genre,Police,score,1,1535
+genre,Police,score,2,801
+genre,Police,score,3,467
+genre,Police,score,4,1365
+genre,Police,score,5,43
+genre,Police,score,6,13601
+genre,Police,score,7,34036
+genre,Police,score,8,235
+genre,Police,score,9,5460
+genre,Police,score,10,1566
+genre,Police,score,11,32005
+genre,Police,score,12,2449
+genre,Police,score,13,1364
+genre,Police,score,14,6467
+genre,Police,score,15,21419
+genre,Police,score,16,1367
+genre,Police,score,17,1506
+genre,Police,score,18,781
+genre,Police,score,19,1363
+genre,Police,score,20,9963
+genre,Psychological,score,1,9253
+genre,Psychological,score,2,19
+genre,Psychological,score,3,3786
+genre,Psychological,score,4,40591
+genre,Psychological,score,5,1535
+genre,Psychological,score,6,32
+genre,Psychological,score,7,22135
+genre,Psychological,score,8,37779
+genre,Psychological,score,9,437
+genre,Psychological,score,10,7785
+genre,Psychological,score,11,30484
+genre,Psychological,score,12,11981
+genre,Psychological,score,13,42203
+genre,Psychological,score,14,11979
+genre,Psychological,score,15,37999
+genre,Psychological,score,16,39587
+genre,Psychological,score,17,2246
+genre,Psychological,score,18,9756
+genre,Psychological,score,19,30
+genre,Psychological,score,20,3784
+genre,Romance,score,1,42938
+genre,Romance,score,2,4181
+genre,Romance,score,3,32281
+genre,Romance,score,4,17074
+genre,Romance,score,5,44
+genre,Romance,score,6,431
+genre,Romance,score,7,23273
+genre,Romance,score,8,38329
+genre,Romance,score,9,40591
+genre,Romance,score,10,49310
+genre,Romance,score,11,7311
+genre,Romance,score,12,36098
+genre,Romance,score,13,40417
+genre,Romance,score,14,4282
+genre,Romance,score,15,12365
+genre,Romance,score,16,7785
+genre,Romance,score,17,40787
+genre,Romance,score,18,49721
+genre,Romance,score,19,36885
+genre,Romance,score,20,38889
+genre,Samurai,score,1,15417
+genre,Samurai,score,2,9969
+genre,Samurai,score,3,34096
+genre,Samurai,score,4,15335
+genre,Samurai,score,5,39486
+genre,Samurai,score,6,37491
+genre,Samurai,score,7,28977
+genre,Samurai,score,8,36838
+genre,Samurai,score,9,44
+genre,Samurai,score,10,918
+genre,Samurai,score,11,7472
+genre,Samurai,score,12,35843
+genre,Samurai,score,13,44087
+genre,Samurai,score,14,205
+genre,Samurai,score,15,21899
+genre,Samurai,score,16,2418
+genre,Samurai,score,17,45
+genre,Samurai,score,18,9735
+genre,Samurai,score,19,37520
+genre,Samurai,score,20,25313
+genre,School,score,1,28851
+genre,School,score,2,32281
+genre,School,score,3,32935
+genre,School,score,4,1575
+genre,School,score,5,40748
+genre,School,score,6,40664
+genre,School,score,7,28891
+genre,School,score,8,23273
+genre,School,score,9,38329
+genre,School,score,10,40591
+genre,School,score,11,245
+genre,School,score,12,7311
+genre,School,score,13,40776
+genre,School,score,14,30654
+genre,School,score,15,49721
+genre,School,score,16,170
+genre,School,score,17,36885
+genre,School,score,18,20583
+genre,School,score,19,37379
+genre,School,score,20,34612
+genre,Sci-Fi,score,1,9253
+genre,Sci-Fi,score,2,15417
+genre,Sci-Fi,score,3,9969
+genre,Sci-Fi,score,4,2904
+genre,Sci-Fi,score,5,34096
+genre,Sci-Fi,score,6,15335
+genre,Sci-Fi,score,7,39486
+genre,Sci-Fi,score,8,37491
+genre,Sci-Fi,score,9,28977
+genre,Sci-Fi,score,10,36838
+genre,Sci-Fi,score,11,1
+genre,Sci-Fi,score,12,36862
+genre,Sci-Fi,score,13,1575
+genre,Sci-Fi,score,14,820
+genre,Sci-Fi,score,15,3786
+genre,Sci-Fi,score,16,34599
+genre,Sci-Fi,score,17,918
+genre,Sci-Fi,score,18,48569
+genre,Sci-Fi,score,19,7311
+genre,Sci-Fi,score,20,2001
+genre,Seinen,score,1,35180
+genre,Seinen,score,2,37521
+genre,Seinen,score,3,19
+genre,Seinen,score,4,24701
+genre,Seinen,score,5,21939
+genre,Seinen,score,6,40682
+genre,Seinen,score,7,40591
+genre,Seinen,score,8,457
+genre,Seinen,score,9,22135
+genre,Seinen,score,10,28957
+genre,Seinen,score,11,21329
+genre,Seinen,score,12,33
+genre,Seinen,score,13,49909
+genre,Seinen,score,14,801
+genre,Seinen,score,15,40059
+genre,Seinen,score,16,6114
+genre,Seinen,score,17,24687
+genre,Seinen,score,18,39808
+genre,Seinen,score,19,37105
+genre,Seinen,score,20,37999
+genre,Shoujo,score,1,42938
+genre,Shoujo,score,2,11665
+genre,Shoujo,score,3,49310
+genre,Shoujo,score,4,34591
+genre,Shoujo,score,5,10379
+genre,Shoujo,score,6,32983
+genre,Shoujo,score,7,5300
+genre,Shoujo,score,8,40417
+genre,Shoujo,score,9,36649
+genre,Shoujo,score,10,25781
+genre,Shoujo,score,11,36538
+genre,Shoujo,score,12,877
+genre,Shoujo,score,13,44376
+genre,Shoujo,score,14,30709
+genre,Shoujo,score,15,20651
+genre,Shoujo,score,16,10408
+genre,Shoujo,score,17,34534
+genre,Shoujo,score,18,36275
+genre,Shoujo,score,19,4081
+genre,Shoujo,score,20,372
+genre,Shounen,score,1,38524
+genre,Shounen,score,2,5114
+genre,Shounen,score,3,48583
+genre,Shounen,score,4,11061
+genre,Shounen,score,5,28851
+genre,Shounen,score,6,15417
+genre,Shounen,score,7,9969
+genre,Shounen,score,8,47778
+genre,Shounen,score,9,34096
+genre,Shounen,score,10,15335
+genre,Shounen,score,11,39486
+genre,Shounen,score,12,40028
+genre,Shounen,score,13,37491
+genre,Shounen,score,14,28977
+genre,Shounen,score,15,32935
+genre,Shounen,score,16,36838
+genre,Shounen,score,17,44
+genre,Shounen,score,18,40456
+genre,Shounen,score,19,263
+genre,Shounen,score,20,40748
+genre,Slice of Life,score,1,37987
+genre,Slice of Life,score,2,42938
+genre,Slice of Life,score,3,35180
+genre,Slice of Life,score,4,4181
+genre,Slice of Life,score,5,37510
+genre,Slice of Life,score,6,24701
+genre,Slice of Life,score,7,21939
+genre,Slice of Life,score,8,11665
+genre,Slice of Life,score,9,33352
+genre,Slice of Life,score,10,49310
+genre,Slice of Life,score,11,12355
+genre,Slice of Life,score,12,34591
+genre,Slice of Life,score,13,36098
+genre,Slice of Life,score,14,457
+genre,Slice of Life,score,15,10379
+genre,Slice of Life,score,16,32983
+genre,Slice of Life,score,17,5300
+genre,Slice of Life,score,18,40417
+genre,Slice of Life,score,19,28957
+genre,Slice of Life,score,20,21329
+genre,Space,score,1,1
+genre,Space,score,2,820
+genre,Space,score,3,4565
+genre,Space,score,4,5
+genre,Space,score,5,12431
+genre,Space,score,6,10937
+genre,Space,score,7,12029
+genre,Space,score,8,23327
+genre,Space,score,9,33051
+genre,Space,score,10,36371
+genre,Space,score,11,329
+genre,Space,score,12,42886
+genre,Space,score,13,36370
+genre,Space,score,14,2581
+genre,Space,score,15,3927
+genre,Space,score,16,39592
+genre,Space,score,17,6336
+genre,Space,score,18,39198
+genre,Space,score,19,3016
+genre,Space,score,20,31251
+genre,Sports,score,1,32935
+genre,Sports,score,2,263
+genre,Sports,score,3,28891
+genre,Sports,score,4,5258
+genre,Sports,score,5,19647
+genre,Sports,score,6,22135
+genre,Sports,score,7,40776
+genre,Sports,score,8,170
+genre,Sports,score,9,20583
+genre,Sports,score,10,37379
+genre,Sports,score,11,38883
+genre,Sports,score,12,5028
+genre,Sports,score,13,14397
+genre,Sports,score,14,2921
+genre,Sports,score,15,37965
+genre,Sports,score,16,5040
+genre,Sports,score,17,24415
+genre,Sports,score,18,7655
+genre,Sports,score,19,5941
+genre,Sports,score,20,6675
+genre,Super Power,score,1,38524
+genre,Super Power,score,2,48583
+genre,Super Power,score,3,11061
+genre,Super Power,score,4,2904
+genre,Super Power,score,5,40028
+genre,Super Power,score,6,1575
+genre,Super Power,score,7,21
+genre,Super Power,score,8,35760
+genre,Super Power,score,9,4565
+genre,Super Power,score,10,16498
+genre,Super Power,score,11,25777
+genre,Super Power,score,12,30276
+genre,Super Power,score,13,45556
+genre,Super Power,score,14,136
+genre,Super Power,score,15,137
+genre,Super Power,score,16,38481
+genre,Super Power,score,17,139
+genre,Super Power,score,18,38234
+genre,Super Power,score,19,40784
+genre,Super Power,score,20,38003
+genre,Supernatural,score,1,42938
+genre,Supernatural,score,2,4181
+genre,Supernatural,score,3,47778
+genre,Supernatural,score,4,32281
+genre,Supernatural,score,5,35247
+genre,Supernatural,score,6,199
+genre,Supernatural,score,7,31758
+genre,Supernatural,score,8,37510
+genre,Supernatural,score,9,17074
+genre,Supernatural,score,10,44074
+genre,Supernatural,score,11,33050
+genre,Supernatural,score,12,24701
+genre,Supernatural,score,13,40456
+genre,Supernatural,score,14,40434
+genre,Supernatural,score,15,40748
+genre,Supernatural,score,16,21939
+genre,Supernatural,score,17,38329
+genre,Supernatural,score,18,1535
+genre,Supernatural,score,19,11665
+genre,Supernatural,score,20,48561
+genre,Suspense,score,1,9253
+genre,Suspense,score,2,19
+genre,Suspense,score,3,1535
+genre,Suspense,score,4,37779
+genre,Suspense,score,5,4282
+genre,Suspense,score,6,30484
+genre,Suspense,score,7,11981
+genre,Suspense,score,8,42203
+genre,Suspense,score,9,46095
+genre,Suspense,score,10,6114
+genre,Suspense,score,11,5205
+genre,Suspense,score,12,11979
+genre,Suspense,score,13,39587
+genre,Suspense,score,14,9756
+genre,Suspense,score,15,13601
+genre,Suspense,score,16,3002
+genre,Suspense,score,17,10271
+genre,Suspense,score,18,32188
+genre,Suspense,score,19,43325
+genre,Suspense,score,20,11977
+genre,Vampire,score,1,35247
+genre,Vampire,score,2,31758
+genre,Vampire,score,3,17074
+genre,Vampire,score,4,31757
+genre,Vampire,score,5,36999
+genre,Vampire,score,6,31181
+genre,Vampire,score,7,9260
+genre,Vampire,score,8,777
+genre,Vampire,score,9,5081
+genre,Vampire,score,10,49114
+genre,Vampire,score,11,543
+genre,Vampire,score,12,14719
+genre,Vampire,score,13,48580
+genre,Vampire,score,14,36796
+genre,Vampire,score,15,34451
+genre,Vampire,score,16,10083
+genre,Vampire,score,17,3603
+genre,Vampire,score,18,7724
+genre,Vampire,score,19,6904
+genre,Vampire,score,20,28927
+genre,Work Life,score,1,1372
+genre,Work Life,score,2,50185
+genre,Work Life,score,3,50762
+overall,__ALL__,completed_count,1,16498
+overall,__ALL__,completed_count,2,1535
+overall,__ALL__,completed_count,3,30276
+overall,__ALL__,completed_count,4,11757
+overall,__ALL__,completed_count,5,31964
+overall,__ALL__,completed_count,6,22319
+overall,__ALL__,completed_count,7,5114
+overall,__ALL__,completed_count,8,32281
+overall,__ALL__,completed_count,9,25777
+overall,__ALL__,completed_count,10,20
+overall,__ALL__,completed_count,11,38000
+overall,__ALL__,completed_count,12,33486
+overall,__ALL__,completed_count,13,19815
+overall,__ALL__,completed_count,14,35760
+overall,__ALL__,completed_count,15,28851
+overall,__ALL__,completed_count,16,38524
+overall,__ALL__,completed_count,17,36456
+overall,__ALL__,completed_count,18,11061
+overall,__ALL__,completed_count,19,23755
+overall,__ALL__,completed_count,20,4224
+overall,__ALL__,favorites_count,1,5114
+overall,__ALL__,favorites_count,2,11061
+overall,__ALL__,favorites_count,3,9253
+overall,__ALL__,favorites_count,4,21
+overall,__ALL__,favorites_count,5,1535
+overall,__ALL__,favorites_count,6,16498
+overall,__ALL__,favorites_count,7,1575
+overall,__ALL__,favorites_count,8,1735
+overall,__ALL__,favorites_count,9,30
+overall,__ALL__,favorites_count,10,32281
+overall,__ALL__,favorites_count,11,23273
+overall,__ALL__,favorites_count,12,38000
+overall,__ALL__,favorites_count,13,28851
+overall,__ALL__,favorites_count,14,2001
+overall,__ALL__,favorites_count,15,1
+overall,__ALL__,favorites_count,16,2904
+overall,__ALL__,favorites_count,17,20
+overall,__ALL__,favorites_count,18,4181
+overall,__ALL__,favorites_count,19,40748
+overall,__ALL__,favorites_count,20,20583
+overall,__ALL__,score,1,38524
+overall,__ALL__,score,2,5114
+overall,__ALL__,score,3,48583
+overall,__ALL__,score,4,9253
+overall,__ALL__,score,5,11061
+overall,__ALL__,score,6,28851
+overall,__ALL__,score,7,37987
+overall,__ALL__,score,8,42938
+overall,__ALL__,score,9,15417
+overall,__ALL__,score,10,35180
+overall,__ALL__,score,11,4181
+overall,__ALL__,score,12,9969
+overall,__ALL__,score,13,47778
+overall,__ALL__,score,14,2904
+overall,__ALL__,score,15,34096
+overall,__ALL__,score,16,32281
+overall,__ALL__,score,17,15335
+overall,__ALL__,score,18,35247
+overall,__ALL__,score,19,39486
+overall,__ALL__,score,20,40028

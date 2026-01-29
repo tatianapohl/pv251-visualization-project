@@ -1,0 +1,551 @@
+genre_1,genre_2,friendship_count
+Action,Drama,564918
+Action,Comedy,378662
+Action,Action,376912
+Comedy,Drama,336116
+Drama,Drama,302753
+Comedy,Comedy,135448
+Action,Shounen,112337
+Drama,Shounen,85608
+Comedy,Shounen,55335
+Action,Adventure,51629
+Adventure,Drama,41888
+Action,Romance,37782
+Action,Fantasy,34446
+Drama,Romance,34181
+Action,Supernatural,33567
+Adventure,Comedy,30572
+Drama,Fantasy,30482
+Action,Mystery,30422
+Action,School,27638
+Drama,Psychological,27531
+Drama,Supernatural,27341
+Drama,Mystery,27073
+Comedy,Romance,26887
+Action,Psychological,26290
+Drama,School,26050
+Comedy,Fantasy,21468
+Comedy,Supernatural,20384
+Comedy,School,20339
+Action,Sci-Fi,18847
+Drama,Sci-Fi,18583
+Drama,Slice of Life,18306
+Comedy,Mystery,18132
+Action,Slice of Life,15243
+Comedy,Psychological,15150
+Comedy,Slice of Life,13761
+Shounen,Shounen,12516
+Comedy,Sci-Fi,12415
+Adventure,Shounen,7344
+Action,Hentai,5606
+Romance,Shounen,5531
+Fantasy,Shounen,5041
+Shounen,Supernatural,4798
+Drama,Hentai,4481
+School,Shounen,4305
+Mystery,Shounen,4245
+Comedy,Hentai,3585
+Psychological,Shounen,3421
+Adventure,Romance,3311
+Avant Garde,Drama,3275
+Hentai,Hentai,3162
+Action,Avant Garde,2995
+Action,Ecchi,2973
+Adventure,Fantasy,2668
+Drama,Seinen,2665
+Action,Seinen,2637
+Adventure,Adventure,2527
+Adventure,Supernatural,2475
+Romance,School,2423
+Adventure,Mystery,2406
+Romance,Supernatural,2384
+Fantasy,Romance,2378
+Drama,Ecchi,2328
+Romance,Romance,2233
+Shounen,Slice of Life,2160
+Action,Horror,2118
+Adventure,Psychological,2055
+Adventure,School,2042
+Mystery,Romance,2000
+Comedy,Ecchi,1961
+Fantasy,Supernatural,1897
+Avant Garde,Comedy,1895
+Drama,Music,1861
+Adventure,Sci-Fi,1861
+Sci-Fi,Shounen,1806
+Action,Boys Love,1777
+Fantasy,School,1755
+Mystery,Supernatural,1732
+Action,Historical,1708
+School,Supernatural,1679
+Action,Music,1662
+Comedy,Seinen,1552
+Comedy,Music,1550
+Drama,Historical,1528
+Adventure,Slice of Life,1510
+Mystery,Psychological,1495
+Drama,Horror,1480
+Fantasy,Mystery,1427
+Romance,Slice of Life,1414
+Boys Love,Drama,1411
+Psychological,Romance,1371
+Mystery,School,1280
+Action,Shoujo,1278
+Psychological,Supernatural,1264
+Fantasy,Psychological,1252
+Fantasy,Fantasy,1242
+Comedy,Horror,1238
+Action,Demons,1187
+School,School,1186
+Action,Mecha,1175
+Psychological,Sci-Fi,1168
+School,Slice of Life,1163
+Fantasy,Slice of Life,1141
+Supernatural,Supernatural,1127
+Romance,Sci-Fi,1117
+Psychological,Psychological,1112
+Comedy,Shoujo,1112
+Boys Love,Comedy,1089
+Mystery,Mystery,1073
+Psychological,School,1022
+Drama,Mecha,1016
+Mystery,Sci-Fi,1008
+Comedy,Historical,959
+Drama,Shoujo,955
+Sci-Fi,Supernatural,946
+Mystery,Slice of Life,928
+Drama,Military,904
+Slice of Life,Supernatural,903
+Fantasy,Sci-Fi,890
+Sci-Fi,Sci-Fi,879
+Demons,Drama,840
+Hentai,Shounen,814
+Action,Military,806
+Sci-Fi,Slice of Life,785
+Comedy,Mecha,763
+Action,Game,753
+Slice of Life,Slice of Life,739
+Psychological,Slice of Life,736
+School,Sci-Fi,693
+Comedy,Demons,684
+Drama,Game,624
+Comedy,Military,519
+Drama,Girls Love,474
+Comedy,Game,450
+Action,Suspense,428
+Action,Harem,425
+Adventure,Hentai,398
+Action,Girls Love,398
+Hentai,Romance,397
+Fantasy,Hentai,389
+Ecchi,Shounen,384
+Seinen,Shounen,370
+Drama,Harem,369
+Action,Super Power,367
+Action,Vampire,355
+Drama,Vampire,347
+Drama,Suspense,344
+Comedy,Harem,335
+Comedy,Girls Love,327
+Boys Love,Shounen,303
+Avant Garde,Shounen,296
+Hentai,School,284
+Comedy,Super Power,272
+Horror,Shounen,269
+Ecchi,Hentai,258
+Comedy,Vampire,257
+Adventure,Avant Garde,253
+Drama,Super Power,235
+Ecchi,Romance,235
+Hentai,Supernatural,225
+Avant Garde,Psychological,220
+Adventure,Seinen,218
+Music,School,214
+Historical,Shounen,213
+Ecchi,Fantasy,213
+Avant Garde,Sci-Fi,209
+Hentai,Psychological,208
+Comedy,Suspense,200
+Drama,Sports,191
+Music,Romance,189
+Ecchi,School,185
+Hentai,Mystery,184
+Adventure,Music,174
+Demons,Shounen,173
+Hentai,Sci-Fi,168
+Adventure,Horror,166
+Shoujo,Shounen,166
+Ecchi,Supernatural,166
+Avant Garde,Mystery,164
+Adventure,Ecchi,160
+Avant Garde,Supernatural,159
+Psychological,Seinen,159
+Romance,Shoujo,157
+Music,Shounen,157
+Action,Sports,154
+Avant Garde,Fantasy,150
+Mecha,Sci-Fi,150
+Fantasy,Seinen,149
+Action,Cars,145
+Horror,Mystery,136
+Comedy,Sports,135
+Mystery,Seinen,134
+Seinen,Supernatural,133
+Horror,Romance,132
+Adventure,Shoujo,131
+Fantasy,Music,131
+Adventure,Historical,129
+Music,Slice of Life,128
+Ecchi,Mystery,125
+Adventure,Demons,123
+Adventure,Boys Love,122
+Action,Erotica,122
+Boys Love,Romance,120
+Avant Garde,Romance,116
+Horror,School,114
+Cars,Drama,114
+Hentai,Slice of Life,112
+Horror,Supernatural,112
+Romance,Seinen,111
+Music,Supernatural,110
+Avant Garde,School,110
+Adventure,Mecha,109
+Boys Love,Fantasy,108
+Avant Garde,Slice of Life,108
+Drama,Erotica,107
+Sci-Fi,Seinen,105
+Ecchi,Slice of Life,105
+Boys Love,School,104
+Fantasy,Horror,101
+Adventure,Military,100
+Historical,Romance,99
+Fantasy,Historical,97
+Music,Sci-Fi,97
+Boys Love,Supernatural,97
+Ecchi,Psychological,95
+Boys Love,Mystery,94
+Music,Mystery,90
+Historical,Mystery,89
+Military,Shounen,87
+Cars,Comedy,86
+School,Seinen,86
+Game,Shounen,85
+Historical,Supernatural,84
+Fantasy,Shoujo,83
+Historical,Psychological,82
+Music,Psychological,80
+Shoujo,Supernatural,80
+Drama,Police,79
+Demons,Romance,79
+Horror,Psychological,77
+Military,Sci-Fi,76
+Mecha,Romance,75
+Seinen,Slice of Life,74
+Mystery,Shoujo,74
+Action,Police,72
+Mecha,Shounen,71
+Ecchi,Sci-Fi,68
+Mecha,Slice of Life,66
+Boys Love,Psychological,66
+Mecha,Psychological,65
+Demons,Fantasy,65
+Demons,Supernatural,64
+Horror,Sci-Fi,62
+Girls Love,School,62
+Drama,Josei,62
+Action,Josei,61
+Comedy,Erotica,60
+Shoujo,Slice of Life,60
+Girls Love,Shounen,58
+Military,Psychological,57
+School,Shoujo,56
+Shounen,Suspense,56
+Boys Love,Hentai,56
+Historical,School,55
+Shounen,Vampire,55
+Adventure,Game,54
+Demons,Mystery,54
+Mecha,Supernatural,53
+Harem,Shounen,53
+Historical,Sci-Fi,53
+Demons,School,52
+Shounen,Super Power,49
+Boys Love,Slice of Life,45
+Mecha,Mystery,44
+Sci-Fi,Shoujo,44
+Historical,Slice of Life,44
+Game,Psychological,44
+Harem,Romance,42
+Girls Love,Romance,42
+Fantasy,Mecha,41
+Comedy,Police,40
+Military,Romance,40
+Music,Music,40
+Game,Romance,40
+Comedy,Josei,39
+Psychological,Shoujo,39
+Military,Supernatural,38
+Ecchi,Ecchi,38
+Girls Love,Slice of Life,37
+Supernatural,Vampire,37
+Fantasy,Girls Love,36
+Mecha,School,36
+Demons,Psychological,36
+Boys Love,Sci-Fi,36
+Adventure,Vampire,35
+Harem,School,35
+Demons,Sci-Fi,35
+Horror,Slice of Life,35
+Game,School,34
+Adventure,Super Power,34
+Shoujo,Shoujo,34
+Adventure,Suspense,33
+Game,Mystery,33
+Game,Slice of Life,33
+Shounen,Sports,31
+Harem,Hentai,31
+Game,Sci-Fi,31
+Military,Mystery,30
+Fantasy,Vampire,30
+Mystery,Vampire,30
+Harem,Mystery,30
+Avant Garde,Avant Garde,29
+Mystery,Suspense,28
+Fantasy,Harem,28
+Avant Garde,Hentai,28
+School,Suspense,27
+Fantasy,Game,26
+Music,Shoujo,25
+Adventure,Harem,25
+Girls Love,Supernatural,25
+Fantasy,Military,25
+Action,Martial Arts,24
+Fantasy,Suspense,23
+Military,Slice of Life,22
+Erotica,Hentai,22
+Girls Love,Psychological,22
+School,Super Power,22
+Adventure,Girls Love,22
+Drama,Kids,21
+Romance,Super Power,21
+Adventure,Sports,21
+Game,Supernatural,20
+Demons,Slice of Life,19
+Comedy,Kids,19
+Harem,Supernatural,19
+Fantasy,Super Power,18
+Slice of Life,Vampire,17
+Mystery,Super Power,17
+Girls Love,Hentai,17
+Romance,Suspense,16
+Cars,Shounen,16
+Romance,Vampire,16
+Hentai,Seinen,16
+Girls Love,Sci-Fi,16
+Horror,Seinen,16
+Drama,Gourmet,16
+Demons,Hentai,15
+Mecha,Military,15
+Mecha,Mecha,15
+Military,School,15
+Sci-Fi,Super Power,15
+Hentai,Mecha,15
+Comedy,Martial Arts,15
+Erotica,Shounen,14
+Josei,Shounen,14
+Psychological,Suspense,14
+Super Power,Supernatural,14
+Avant Garde,Seinen,14
+Action,Kids,14
+Avant Garde,Boys Love,13
+Romance,Sports,13
+Avant Garde,Horror,13
+Supernatural,Suspense,13
+Police,Shounen,13
+Hentai,Vampire,13
+Boys Love,Boys Love,13
+Psychological,Vampire,13
+Harem,Sci-Fi,13
+Horror,Music,12
+Slice of Life,Suspense,12
+School,Vampire,12
+Action,Gourmet,11
+Harem,Psychological,11
+Horror,Horror,11
+Ecchi,Seinen,11
+Award Winning,Comedy,11
+Erotica,Psychological,11
+Sports,Supernatural,11
+Sci-Fi,Suspense,10
+Hentai,Music,10
+Psychological,Super Power,10
+Cars,Mystery,10
+Adventure,Cars,10
+Avant Garde,Ecchi,10
+Boys Love,Ecchi,10
+Award Winning,Drama,10
+Fantasy,Sports,9
+Ecchi,Shoujo,9
+Comedy,Gourmet,9
+Harem,Slice of Life,9
+Cars,School,9
+Game,Hentai,9
+Hentai,Military,9
+Avant Garde,Mecha,9
+Police,Romance,9
+Historical,Historical,9
+Girls Love,Mystery,8
+Demons,Seinen,8
+Ecchi,Horror,8
+Boys Love,Demons,8
+Historical,Military,8
+Adventure,Erotica,8
+Erotica,Fantasy,8
+Adventure,Police,8
+Ecchi,Music,7
+Cars,Psychological,7
+Hentai,Shoujo,7
+Cars,Romance,7
+Action,Award Winning,7
+Ecchi,Game,7
+Avant Garde,Military,7
+Hentai,Horror,7
+Demons,Historical,7
+Avant Garde,Music,7
+Police,Sci-Fi,6
+Police,Supernatural,6
+Game,Seinen,6
+Martial Arts,Romance,6
+Seinen,Seinen,6
+Boys Love,Shoujo,6
+Horror,Shoujo,6
+Boys Love,Music,6
+Boys Love,Historical,6
+Historical,Music,6
+Sci-Fi,Sports,6
+Girls Love,Music,6
+Sci-Fi,Vampire,6
+Cars,Supernatural,5
+Avant Garde,Suspense,5
+Drama,Martial Arts,5
+Ecchi,Vampire,5
+Erotica,Romance,5
+Music,Seinen,5
+Music,Super Power,5
+Military,Seinen,4
+Slice of Life,Sports,4
+Erotica,School,4
+Historical,Horror,4
+Harem,Seinen,4
+Ecchi,Harem,4
+Avant Garde,Shoujo,4
+Historical,Seinen,4
+Boys Love,Girls Love,4
+Fantasy,Josei,4
+Boys Love,Horror,4
+Boys Love,Seinen,4
+Horror,Sports,4
+Josei,Romance,4
+Adventure,Josei,4
+Cars,Slice of Life,4
+Erotica,Supernatural,4
+Psychological,Sports,4
+Game,Military,4
+Game,Historical,4
+Avant Garde,Historical,4
+Avant Garde,Harem,4
+Game,Harem,4
+Fantasy,Kids,3
+Erotica,Slice of Life,3
+Game,Shoujo,3
+Mecha,Shoujo,3
+Boys Love,Mecha,3
+Historical,Super Power,3
+Police,Slice of Life,3
+Game,Girls Love,3
+Demons,Ecchi,3
+Demons,Shoujo,3
+Slice of Life,Super Power,3
+Historical,Shoujo,3
+Avant Garde,Demons,3
+Hentai,Historical,3
+Ecchi,Erotica,3
+Mystery,Sports,3
+Avant Garde,Game,3
+Ecchi,Historical,3
+Erotica,Mystery,3
+Josei,Sci-Fi,3
+Ecchi,Mecha,3
+Seinen,Suspense,2
+Action,Samurai,2
+Seinen,Super Power,2
+Seinen,Sports,2
+Harem,Vampire,2
+Adventure,Kids,2
+Kids,Psychological,2
+Historical,Mecha,2
+Hentai,Super Power,2
+Cars,Mecha,2
+Harem,Horror,2
+Adventure,Martial Arts,2
+Gourmet,Mystery,2
+Girls Love,Girls Love,2
+Game,Music,2
+Avant Garde,Girls Love,2
+Fantasy,Police,2
+Erotica,Harem,2
+Erotica,Erotica,2
+Drama,Space,2
+Avant Garde,Super Power,2
+Demons,Mecha,2
+Cars,Erotica,2
+Cars,Fantasy,2
+Josei,Mystery,2
+Harem,Harem,2
+Martial Arts,Mystery,2
+Mecha,Super Power,2
+Kids,School,2
+Police,School,2
+Kids,Seinen,2
+Kids,Romance,2
+Kids,Shounen,2
+Mecha,Music,2
+Kids,Supernatural,2
+Award Winning,Romance,1
+Ecchi,Military,1
+Ecchi,Girls Love,1
+Military,Suspense,1
+Music,Vampire,1
+Award Winning,Boys Love,1
+Award Winning,Fantasy,1
+School,Sports,1
+Demons,Vampire,1
+Demons,Suspense,1
+Shoujo,Suspense,1
+Demons,Music,1
+Adventure,Parody,1
+Demons,Demons,1
+Boys Love,Suspense,1
+Police,Shoujo,1
+Cars,Sci-Fi,1
+Military,Music,1
+Seinen,Vampire,1
+Erotica,Girls Love,1
+Gourmet,Shounen,1
+Josei,Supernatural,1
+Josei,Mecha,1
+Horror,Suspense,1
+Hentai,Suspense,1
+Hentai,Sports,1
+Kids,Slice of Life,1
+Harem,Super Power,1
+Martial Arts,School,1
+Military,Military,1
+Seinen,Shoujo,1
+Girls Love,Seinen,1
+Girls Love,Mecha,1
+Martial Arts,Sci-Fi,1
+Game,Suspense,1
+Game,Game,1
+Mecha,Police,1
+Cars,Hentai,1
